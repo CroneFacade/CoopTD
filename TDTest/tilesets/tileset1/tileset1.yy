@@ -5,11 +5,36 @@
     "name": "tileset1",
     "auto_tile_sets": [
         {
-            "id": "375d01fa-321f-4ebb-8e11-d1a474af37f7",
+            "id": "214d7b66-c121-4b4c-97d6-830fd116d9c7",
             "modelName": "GMAutoTileSet",
             "mvc": "1.0",
             "closed_edge": false,
             "name": "autotile_1",
+            "tiles": [
+                6,
+                15,
+                13,
+                7,
+                14,
+                10,
+                16,
+                2,
+                12,
+                17,
+                11,
+                3,
+                8,
+                4,
+                5,
+                1
+            ]
+        },
+        {
+            "id": "d992784a-b9c2-488a-81e7-efdad31f79eb",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "autotile_2",
             "tiles": [
                 0,
                 0,
@@ -38,7 +63,7 @@
             
         ]
     },
-    "out_columns": 3,
+    "out_columns": 4,
     "out_tilehborder": 2,
     "out_tilevborder": 2,
     "spriteId": "4474e308-19a6-4db3-8336-e8d8e7117096",
@@ -54,7 +79,17 @@
             4,
             5,
             6,
-            7
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
         ],
         "SerialiseFrameCount": 1
     },
@@ -62,7 +97,7 @@
         
     ],
     "tile_animation_speed": 15,
-    "tile_count": 8,
+    "tile_count": 18,
     "tileheight": 32,
     "tilehsep": 0,
     "tilevsep": 0,
