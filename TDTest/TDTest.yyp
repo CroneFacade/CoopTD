@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "67531585-f744-4618-84ef-238d4ead70b6",
+            "Value": {
+                "id": "f3fbd71e-14bd-4e7b-ab1a-4a9355dfcd2c",
+                "resourcePath": "objects\\oTower1Upgrade\\oTower1Upgrade.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6b5e0e51-c394-4e5e-b27c-faaeea7c3cec",
             "Value": {
                 "id": "4bb1eb29-a9a6-4d1f-9c8d-8bc6b286843a",
@@ -292,6 +300,14 @@
                 "id": "ce5a58b5-0061-453e-ae6c-d4db5916636b",
                 "resourcePath": "sprites\\sEnemy\\sEnemy.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a69976a9-a33e-4978-bd65-328881c63a12",
+            "Value": {
+                "id": "ad44bb3c-e1fd-4d47-9a4c-4b9197a72a25",
+                "resourcePath": "views\\a69976a9-a33e-4978-bd65-328881c63a12.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

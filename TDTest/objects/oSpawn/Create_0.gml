@@ -11,6 +11,10 @@ global.spd = 1;
 global.level = 1;
 global.coins = 100;
 global.playerHealth = 100;
+global.holding_tower = false;
+
+//Upgrades
+global.upgrades_shuriken_tower_level = 1;
 
 restart = false;
 running = false;
