@@ -7,4 +7,6 @@ menu_index += menu_move;
 if(menu_index < 0) menu_index = buttons-1;
 if(menu_index > buttons-1) menu_index = 0;
 
+if(menu_index != last_selected) audio_play_sound(sMenuSwitch, 1, false);
+
 last_selected = menu_index;

@@ -178,7 +178,7 @@
             "Key": "6652a940-a212-4099-9ab5-369d0ac2b147",
             "Value": {
                 "id": "7da2b5c1-bef7-4a7f-8782-c99dbc5bd994",
-                "resourcePath": "fonts\\fMain\\fMain.yy",
+                "resourcePath": "fonts\\fMenu\\fMenu.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -308,6 +308,14 @@
                 "id": "2b7805f0-73f5-4bc3-8543-843c1ed7c731",
                 "resourcePath": "views\\a9e3dd92-3596-4188-896c-f0e06c81a28e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "abbf6e1c-6e4e-4787-a2d4-2c098bcddf4d",
+            "Value": {
+                "id": "a1e9fb3e-ac7a-4d4e-974b-2a226f952c28",
+                "resourcePath": "fonts\\fMain\\fMain.yy",
+                "resourceType": "GMFont"
             }
         },
         {

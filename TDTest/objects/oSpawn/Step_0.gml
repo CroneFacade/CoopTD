@@ -8,3 +8,10 @@ if (global.playerHealth <= 0)
         room_restart();
     }
 }
+
+if(!running && keyboard_check_pressed(vk_space)) {
+		
+	alarm[0] = 1;
+	alarm[1] = room_speed * 5;
+	running = true;
+}
