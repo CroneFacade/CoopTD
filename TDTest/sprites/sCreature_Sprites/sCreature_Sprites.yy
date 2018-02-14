@@ -2,7 +2,7 @@
     "id": "7779fa98-499e-44a1-a0dc-a64f320d132d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sCreature_Sprite_Sheet",
+    "name": "sCreature_Sprites",
     "For3D": false,
     "HTile": false,
     "VTile": false,

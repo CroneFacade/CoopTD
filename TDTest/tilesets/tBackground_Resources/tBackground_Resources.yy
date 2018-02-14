@@ -2,7 +2,7 @@
     "id": "3e1f32c6-992b-4aab-a14c-4a274214d302",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "tileset1",
+    "name": "tBackground_Resources",
     "auto_tile_sets": [
         {
             "id": "214d7b66-c121-4b4c-97d6-830fd116d9c7",

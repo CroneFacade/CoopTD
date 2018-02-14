@@ -1,8 +1,8 @@
 {
-    "id": "c64d620e-aee5-4c1e-a897-2f601d572f0f",
+    "id": "688dca34-4f2c-4ca6-9784-723b1f88134b",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "tCreature_Sprite_Sheet",
+    "name": "tCreature_Sprites",
     "auto_tile_sets": [
         
     ],
