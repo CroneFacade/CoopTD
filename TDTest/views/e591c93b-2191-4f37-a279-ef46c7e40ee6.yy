@@ -11,7 +11,7 @@
         "f7bff39a-71d7-4487-b48d-597c4140b32d"
     ],
     "filterType": "GMSprite",
-    "folderName": "Enemies",
+    "folderName": "Creatures",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

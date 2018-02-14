@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "32c3350e-b9cd-4176-b475-5a2a6e521ba9",
+            "Value": {
+                "id": "9c86b15b-5f0d-4fe8-b8b1-7eb57769d71c",
+                "resourcePath": "sprites\\sShuriken_Tower\\sShuriken_Tower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "0d2d0cc2-8409-4c00-b918-708a5c0ad253",
@@ -159,14 +167,6 @@
             }
         },
         {
-            "Key": "49f0f1f6-9604-4ee7-992b-095610056517",
-            "Value": {
-                "id": "4940c188-e571-4133-a7e6-4e9a5c02c0ee",
-                "resourcePath": "sprites\\sProjectile_Sprites\\sProjectile_Sprites.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "53e797cd-859a-433a-8676-be883f358933",
             "Value": {
                 "id": "c238f6c1-d613-4ff1-84d7-aaae44d18508",
@@ -199,27 +199,11 @@
             }
         },
         {
-            "Key": "688dca34-4f2c-4ca6-9784-723b1f88134b",
-            "Value": {
-                "id": "55c51fc6-5b2e-4061-9aa0-14aecada54ec",
-                "resourcePath": "tilesets\\tCreature_Sprites\\tCreature_Sprites.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "6652a940-a212-4099-9ab5-369d0ac2b147",
             "Value": {
                 "id": "7da2b5c1-bef7-4a7f-8782-c99dbc5bd994",
                 "resourcePath": "fonts\\fMenu\\fMenu.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "6aabb8a9-191a-4644-9694-472e7fa2d932",
-            "Value": {
-                "id": "94882ac5-a2c7-44f9-bec7-28fffd9df557",
-                "resourcePath": "sprites\\sTower1\\sTower1.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -236,6 +220,14 @@
                 "id": "b948b3e4-81c9-47ad-9eed-67d11738e606",
                 "resourcePath": "views\\6fc7beaf-9e29-4082-9065-141fc009f48b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "71fd96d0-78c9-462e-b59e-a33940913b2a",
+            "Value": {
+                "id": "8e82119e-632f-495a-9f7d-4c73540fef0b",
+                "resourcePath": "sprites\\sShuriken\\sShuriken.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,14 +255,6 @@
             }
         },
         {
-            "Key": "7779fa98-499e-44a1-a0dc-a64f320d132d",
-            "Value": {
-                "id": "b51008ad-36ac-4fbe-a773-9cda0a608c15",
-                "resourcePath": "sprites\\sCreature_Sprites\\sCreature_Sprites.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7850731a-dc13-4833-a323-c815992928c8",
             "Value": {
                 "id": "8b6edb8d-449d-4cc6-ac27-d6e13bddfc86",
@@ -279,27 +263,11 @@
             }
         },
         {
-            "Key": "7b7d3cd5-76c7-404d-97bd-cc00618fa803",
-            "Value": {
-                "id": "33d92ecf-40e6-4909-b25e-b2127d1b03b3",
-                "resourcePath": "sprites\\sBullet\\sBullet.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "fd577e8e-8044-45bd-97c5-074dd621bb3f",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
-            }
-        },
-        {
-            "Key": "8051298f-4b82-4cdb-8b07-3c3cadceef0f",
-            "Value": {
-                "id": "22fcf7c8-de8a-4c7c-a8c5-618ff0570338",
-                "resourcePath": "sprites\\sTower_Sprites\\sTower_Sprites.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -323,14 +291,6 @@
             "Value": {
                 "id": "ce5a58b5-0061-453e-ae6c-d4db5916636b",
                 "resourcePath": "sprites\\sEnemy\\sEnemy.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "987de882-d3f0-4995-88e6-1612a9f68f51",
-            "Value": {
-                "id": "c6a7d963-9d3b-49df-9ae7-6f1af3bc9881",
-                "resourcePath": "sprites\\TestBullet\\TestBullet.yy",
                 "resourceType": "GMSprite"
             }
         },
