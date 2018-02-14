@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "rSPGame",
     "id": "bc4ad811-8974-46de-80f2-5aebdb63da0a",
     "creationCodeFile": "",
     "inheritCode": false,
