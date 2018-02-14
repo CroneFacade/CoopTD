@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "474b07d9-e1de-4906-b73f-5dd76e7c17a1",
+            "Value": {
+                "id": "cab3be9f-4550-48f5-a648-ac7af27b7a2b",
+                "resourcePath": "sprites\\sChest_Stalker\\sChest_Stalker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "49bad9d1-0afe-41bb-8270-afe09769d3f7",
             "Value": {
                 "id": "9f1d86cb-e886-4116-a27d-4c12f9013d68",
@@ -156,6 +164,14 @@
                 "id": "c238f6c1-d613-4ff1-84d7-aaae44d18508",
                 "resourcePath": "objects\\oEnemy\\oEnemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5707b1f0-c69c-4579-927c-e6ad422b1d21",
+            "Value": {
+                "id": "df12ba77-1cb8-49da-9cf7-9b279823d82b",
+                "resourcePath": "sprites\\sBeholder\\sBeholder.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -247,6 +263,14 @@
             }
         },
         {
+            "Key": "7779fa98-499e-44a1-a0dc-a64f320d132d",
+            "Value": {
+                "id": "b51008ad-36ac-4fbe-a773-9cda0a608c15",
+                "resourcePath": "sprites\\sCreature_Sprite_Sheet\\sCreature_Sprite_Sheet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7850731a-dc13-4833-a323-c815992928c8",
             "Value": {
                 "id": "8b6edb8d-449d-4cc6-ac27-d6e13bddfc86",
@@ -291,6 +315,14 @@
             "Value": {
                 "id": "ce5a58b5-0061-453e-ae6c-d4db5916636b",
                 "resourcePath": "sprites\\sEnemy\\sEnemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a8992f21-92e5-4105-9f6c-8b53f319bce6",
+            "Value": {
+                "id": "23c81676-4519-42aa-b7ba-396f687c9c6b",
+                "resourcePath": "sprites\\sHaunted_Scroll\\sHaunted_Scroll.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -391,6 +423,14 @@
             }
         },
         {
+            "Key": "c64d620e-aee5-4c1e-a897-2f601d572f0f",
+            "Value": {
+                "id": "be4fbde7-a15e-453d-a6ff-9c5282a254db",
+                "resourcePath": "tilesets\\tCreature_Sprite_Sheet\\tCreature_Sprite_Sheet.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "c12170c9-5fc6-4bf3-ac84-40fc630f066d",
@@ -476,6 +516,14 @@
                 "id": "59aa6197-6171-43fb-aa71-6790b065bc9b",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f7bff39a-71d7-4487-b48d-597c4140b32d",
+            "Value": {
+                "id": "199edaba-1ff3-495a-8f41-37e6b4dae3e3",
+                "resourcePath": "sprites\\sPlant_Man\\sPlant_Man.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
