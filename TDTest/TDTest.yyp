@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "3b72e76e-ccfc-4d64-84ff-f80c795f3812",
+            "Value": {
+                "id": "3b8f6a7e-b1cb-457f-bf93-77347e0dc4ca",
+                "resourcePath": "tilesets\\tDodad_Sprites_64x64\\tDodad_Sprites_64x64.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "3e1f32c6-992b-4aab-a14c-4a274214d302",
             "Value": {
                 "id": "f6a8119e-1789-4c0b-86da-c9c48d1314fb",
@@ -188,6 +196,14 @@
                 "id": "395d6110-6cf5-487d-a21b-c0b487ea3bf2",
                 "resourcePath": "views\\5b5192b0-cb77-4f98-9ed6-ff238ceb3a00.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5eedf009-2c7a-4cce-9f73-42462c1a5769",
+            "Value": {
+                "id": "1087ccdb-0cbb-4401-8fd3-bf7b0e22f35d",
+                "resourcePath": "sprites\\sGolden_Shuriken\\sGolden_Shuriken.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,6 +319,30 @@
             }
         },
         {
+            "Key": "92be12e8-ab75-4e93-9361-e0790a042793",
+            "Value": {
+                "id": "afd8b4ba-55bc-4984-af00-a3aa822eebd8",
+                "resourcePath": "tilesets\\tDodad_Sprites_32x32\\tDodad_Sprites_32x32.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "97da40ac-46eb-47f7-b857-720a5783efaa",
+            "Value": {
+                "id": "cd776984-052f-4ca4-9835-9781dbf5ce6f",
+                "resourcePath": "sprites\\sMagic_Shuriken_Tower\\sMagic_Shuriken_Tower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "99e7f4a3-b7ad-478a-add2-3038766525bd",
+            "Value": {
+                "id": "1a670eb4-0887-44e0-bf2d-3c8fac1745d0",
+                "resourcePath": "sprites\\sMagic_Shuriken\\sMagic_Shuriken.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a69976a9-a33e-4978-bd65-328881c63a12",
             "Value": {
                 "id": "ad44bb3c-e1fd-4d47-9a4c-4b9197a72a25",
@@ -340,6 +380,14 @@
                 "id": "a1e9fb3e-ac7a-4d4e-974b-2a226f952c28",
                 "resourcePath": "fonts\\fMain\\fMain.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "ac9d05ea-fe3b-4a64-b1ab-1ec8aeb17c9e",
+            "Value": {
+                "id": "7de8a3c2-e505-47cd-80dd-f72ec5d26b12",
+                "resourcePath": "sprites\\sGolden_Shuriken_Tower\\sGolden_Shuriken_Tower.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -471,10 +519,26 @@
             }
         },
         {
+            "Key": "e94a9216-3d3d-471d-8e7b-40d6749ac38b",
+            "Value": {
+                "id": "3379c921-763d-4e52-bc12-837c86f510e9",
+                "resourcePath": "sprites\\sDodad_Sprites_32x32\\sDodad_Sprites_32x32.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f1ea80ec-d973-41f6-a22e-485bbbdce702",
             "Value": {
                 "id": "bd15189b-3421-4622-97df-fa011ab6db0d",
                 "resourcePath": "sprites\\sRegion\\sRegion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f36a90d3-2a1f-4640-8533-098ed8aaa962",
+            "Value": {
+                "id": "c7b56106-cb93-4ccd-aca4-bb903b41af53",
+                "resourcePath": "sprites\\sDodad_Sprites_64x64\\sDodad_Sprites_64x64.yy",
                 "resourceType": "GMSprite"
             }
         },
