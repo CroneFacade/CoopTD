@@ -6,7 +6,7 @@ if(spawn_count < spawn_amount * enemy_base_spawn_amount[enemy_index] && !restart
 	enemy.hp = global.hp * enemy_base_healths[enemy_index];
 	enemy.maxHp = global.hp * enemy_base_healths[enemy_index];
 	enemy.spd = global.spd * enemy_base_speeds[enemy_index];
-	enemy.coins = enemy_base_coins[enemy_index] * ( 1 + ( 0.1*global.level));
+	enemy.coins = enemy_base_coins[enemy_index];
 	spawn_count++;
 	alarm[0] = spawn_rate * enemy_base_spawn_rate[enemy_index];
 }

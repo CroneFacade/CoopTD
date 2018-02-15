@@ -47,11 +47,27 @@
             }
         },
         {
+            "Key": "0d70bea0-f1bd-4e16-bd1d-07206aba2207",
+            "Value": {
+                "id": "e36e21ef-7118-4b3f-bad6-6c75515b5216",
+                "resourcePath": "objects\\oCannonTowerC\\oCannonTowerC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0dda9fb0-38e1-44fa-b377-335e739594cc",
             "Value": {
                 "id": "4e77103e-df1c-4d42-af33-f9a30205c2c5",
                 "resourcePath": "views\\0dda9fb0-38e1-44fa-b377-335e739594cc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0f3f31c1-35e6-44b1-8b1d-af4c055c17d8",
+            "Value": {
+                "id": "e6418f00-b536-417d-ae00-ce875d275b69",
+                "resourcePath": "objects\\oCannonTowerD\\oCannonTowerD.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -115,6 +131,14 @@
             "Value": {
                 "id": "90146fc0-4361-415b-9af7-a9d613484e60",
                 "resourcePath": "views\\306ede73-024d-4029-a9f4-0d75b035e59c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "30cf8263-ea2c-4faf-b715-6ba912b1be84",
+            "Value": {
+                "id": "ab9af22d-8a58-4da9-87ab-b6d4f5b520ef",
+                "resourcePath": "views\\30cf8263-ea2c-4faf-b715-6ba912b1be84.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -231,6 +255,14 @@
             }
         },
         {
+            "Key": "5cfc3511-9c9e-43e1-81bd-b0e82ecd1e60",
+            "Value": {
+                "id": "fe3bae96-a30d-4a1a-bed5-d63de68fec5e",
+                "resourcePath": "views\\5cfc3511-9c9e-43e1-81bd-b0e82ecd1e60.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5eedf009-2c7a-4cce-9f73-42462c1a5769",
             "Value": {
                 "id": "1087ccdb-0cbb-4401-8fd3-bf7b0e22f35d",
@@ -252,14 +284,6 @@
                 "id": "7da2b5c1-bef7-4a7f-8782-c99dbc5bd994",
                 "resourcePath": "fonts\\fMenu\\fMenu.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "67531585-f744-4618-84ef-238d4ead70b6",
-            "Value": {
-                "id": "f3fbd71e-14bd-4e7b-ab1a-4a9355dfcd2c",
-                "resourcePath": "objects\\oTower1Upgrade\\oTower1Upgrade.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -380,14 +404,6 @@
                 "id": "1a670eb4-0887-44e0-bf2d-3c8fac1745d0",
                 "resourcePath": "sprites\\sMagic_Shuriken\\sMagic_Shuriken.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a69976a9-a33e-4978-bd65-328881c63a12",
-            "Value": {
-                "id": "ad44bb3c-e1fd-4d47-9a4c-4b9197a72a25",
-                "resourcePath": "views\\a69976a9-a33e-4978-bd65-328881c63a12.yy",
-                "resourceType": "GMFolder"
             }
         },
         {

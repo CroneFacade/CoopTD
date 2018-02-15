@@ -38,7 +38,7 @@ enemy_base_spawn_amount[1] = 4;
 enemy_base_coins[1] = 2;
 //Beholder
 enemy_sprites[2] = sBeholder;
-enemy_base_healths[2] = 2000;
+enemy_base_healths[2] = 1000;
 enemy_base_speeds[2] = 0.9;
 enemy_base_spawn_rate[2] = 5;
 enemy_base_spawn_amount[2] = 0.5;
@@ -47,7 +47,7 @@ enemy_base_coins[2] = 10;
 enemy_sprites[3] = sChest_Stalker;
 enemy_base_healths[3] = 6000;
 enemy_base_speeds[3] = 0.25;
-enemy_base_spawn_rate[3] = 15;
+enemy_base_spawn_rate[3] = 40;
 enemy_base_spawn_amount[3] = 0.1;
 enemy_base_coins[3] = 100;
 //Plant man
