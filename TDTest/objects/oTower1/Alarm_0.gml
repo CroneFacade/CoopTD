@@ -2,10 +2,10 @@
 // You can write your code in this editor
 if(instance_exists(objectToShoot)){
 	var bullets;
-	var angle = 45 / global.upgrades_shuriken_tower_level;
+	var angle = 45 / bullet_amount;
 	
 	var i = 0;
-	repeat(global.upgrades_shuriken_tower_level){
+	repeat(bullet_amount){
 		bullets[i] = instance_create_depth(x,y,-9,oBullet);
 		i++;
 	}
@@ -14,6 +14,20 @@ if(instance_exists(objectToShoot)){
 	var count = 1;
 	repeat(array_length_1d(bullets)) {
 		bullets[i].speed = 10;
+		
+		switch(level) {
+	case 1:
+	bullets[i].sprite_index = sShuriken;
+	break;
+	case 2:
+	bullets[i].sprite_index = sGolden_Shuriken;
+	break;
+	case 3:
+	bullets[i].sprite_index = sMagic_Shuriken;
+	break;
+}
+		
+		
 		if(i == 0)
 			var bullet_direction = point_direction(x,y,objectToShoot.x,objectToShoot.y);
 		else if (dir == -1) {

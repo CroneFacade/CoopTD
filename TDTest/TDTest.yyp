@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "4995dd3d-8a4b-4505-a330-806c23f2ca29",
+            "Value": {
+                "id": "b8cf6d30-0e17-40f2-aa49-4c050824520c",
+                "resourcePath": "objects\\oCannon_Tower\\oCannon_Tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "49bad9d1-0afe-41bb-8270-afe09769d3f7",
             "Value": {
                 "id": "9f1d86cb-e886-4116-a27d-4c12f9013d68",
@@ -324,6 +332,14 @@
                 "id": "afd8b4ba-55bc-4984-af00-a3aa822eebd8",
                 "resourcePath": "tilesets\\tDodad_Sprites_32x32\\tDodad_Sprites_32x32.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "938f6a9a-071e-45b6-a815-3b2ee0aaa74b",
+            "Value": {
+                "id": "d299ddd3-f3fb-449d-ad63-4608153e9e9c",
+                "resourcePath": "sprites\\sBomb\\sBomb.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -492,6 +508,14 @@
                 "id": "14beed6b-a5cd-4829-a995-4c7b06a578cb",
                 "resourcePath": "views\\dd3c905c-6244-4b53-8eaa-49e875f27bdb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "de0a45c5-d321-4e36-99ed-a96ca48683b4",
+            "Value": {
+                "id": "bba68710-408a-4b37-ab3e-7f57a34e6d16",
+                "resourcePath": "sprites\\sCannon_Tower\\sCannon_Tower.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
