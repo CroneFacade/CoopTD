@@ -1,10 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 draw_set_font(fMain);
-draw_set_halign(fa_left);
+draw_set_halign(fa_center);
 
 draw_set_color(c_black);
-draw_text(10,10,"Coins " + string(global.coins));
+draw_text(72,693,string(global.coins));
 draw_text(10,30,"Level " + string(global.level));
 draw_text(10,50,"Health " + string(global.playerHealth));
 
@@ -22,4 +22,4 @@ if (!running)
 }
 
 draw_set_halign(fa_left);
-draw_set_color(c_white);
+draw_set_color(c_white);                                                                             
