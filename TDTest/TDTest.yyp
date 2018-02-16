@@ -183,14 +183,6 @@
             }
         },
         {
-            "Key": "410803fd-f129-4388-bace-bf93a733c465",
-            "Value": {
-                "id": "4b26c7d3-3221-4c30-98a5-d8ad5b0d77b5",
-                "resourcePath": "objects\\oTower_Interface\\oTower_Interface.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4474e308-19a6-4db3-8336-e8d8e7117096",
             "Value": {
                 "id": "d2c79f70-781e-4c8a-bee4-fb48a116b1d6",
@@ -519,6 +511,14 @@
             }
         },
         {
+            "Key": "ce49b449-8a49-4702-9456-2eb69d8dc13d",
+            "Value": {
+                "id": "f67da83c-6693-44ad-abf3-d64e3266b988",
+                "resourcePath": "sprites\\UI_Main\\UI_Main.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d3476453-bb7c-4c1b-908c-9c4920d8b200",
             "Value": {
                 "id": "7e7b45ce-c178-4fbd-8ad5-65be8ff0a2fb",
@@ -591,6 +591,14 @@
             }
         },
         {
+            "Key": "f0050374-9044-4a44-bbf1-5e3ed41ada41",
+            "Value": {
+                "id": "e2b75e04-2010-41af-ba3c-d61e79e45cdb",
+                "resourcePath": "objects\\oUI_Main\\oUI_Main.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f1ea80ec-d973-41f6-a22e-485bbbdce702",
             "Value": {
                 "id": "bd15189b-3421-4622-97df-fa011ab6db0d",
@@ -612,14 +620,6 @@
                 "id": "59aa6197-6171-43fb-aa71-6790b065bc9b",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f49b3e2c-83e8-47b3-a515-9e8aa448f352",
-            "Value": {
-                "id": "39504fef-47c2-4b0c-afa7-b98c5980a3d9",
-                "resourcePath": "sprites\\sTower_Interface\\sTower_Interface.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
