@@ -28,7 +28,9 @@ if(instance_exists(objectToShoot)){
 			var bullet_direction = point_direction(x,y,objectToShoot.x,objectToShoot.y);
 		bullets[i].destination_x = objectToShoot.x;
 		bullets[i].destination_y = objectToShoot.y;
-		bullets[i].damage = 200;
+		bullets[i].damage = 500;
+		bullets[i].stops_at_destination = true;
+		bullets[i].area_of_effect = 75;
 		bullets[i].direction = bullet_direction;
 		i++;
 }

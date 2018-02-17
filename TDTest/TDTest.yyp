@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "51bca3f1-12f1-4134-8f90-cb285b0a43a8",
+            "Value": {
+                "id": "790c5b66-b4d0-4725-a5e6-08c38aafb5fb",
+                "resourcePath": "views\\51bca3f1-12f1-4134-8f90-cb285b0a43a8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "53e797cd-859a-433a-8676-be883f358933",
             "Value": {
                 "id": "c238f6c1-d613-4ff1-84d7-aaae44d18508",
@@ -308,6 +316,14 @@
                 "id": "b948b3e4-81c9-47ad-9eed-67d11738e606",
                 "resourcePath": "views\\6fc7beaf-9e29-4082-9065-141fc009f48b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7033993d-b338-43e8-8b0f-5ecd7971da2a",
+            "Value": {
+                "id": "269ae9be-4894-4a3d-898d-e3ebefb0cb33",
+                "resourcePath": "sprites\\sExplosion1\\sExplosion1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -404,6 +420,14 @@
                 "id": "cd776984-052f-4ca4-9835-9781dbf5ce6f",
                 "resourcePath": "sprites\\sMagic_Shuriken_Tower\\sMagic_Shuriken_Tower.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "98fdce4d-22d7-4ff4-b79f-f1463dbce1d4",
+            "Value": {
+                "id": "264b7ce1-6331-406d-b005-3b5681b3f5e9",
+                "resourcePath": "objects\\oExplosion\\oExplosion.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -543,6 +567,14 @@
             }
         },
         {
+            "Key": "d38e06ae-a911-4264-a024-248b0520439a",
+            "Value": {
+                "id": "be3339d3-8ded-4bc1-bb6b-33db4f87426b",
+                "resourcePath": "views\\d38e06ae-a911-4264-a024-248b0520439a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d6b21f2e-1d5c-47f6-a028-91b1fe79a989",
             "Value": {
                 "id": "587633eb-7ffe-4456-8c7d-8bd043590b55",
@@ -619,6 +651,14 @@
             "Value": {
                 "id": "3379c921-763d-4e52-bc12-837c86f510e9",
                 "resourcePath": "sprites\\sDodad_Sprites_32x32\\sDodad_Sprites_32x32.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ed677994-d03e-4455-8776-4b9bcdff4490",
+            "Value": {
+                "id": "29c17f41-f8cd-4ced-8d42-812584fd5a02",
+                "resourcePath": "sprites\\sHauntedKnight\\sHauntedKnight.yy",
                 "resourceType": "GMSprite"
             }
         },

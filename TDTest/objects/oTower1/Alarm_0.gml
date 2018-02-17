@@ -40,6 +40,7 @@ if(instance_exists(objectToShoot)){
 		}
 		bullets[i].direction = bullet_direction;
 		bullets[i].damage = 50;
+		bullets[i].collides_with_enemies = true;
 		i++;
 }
 	

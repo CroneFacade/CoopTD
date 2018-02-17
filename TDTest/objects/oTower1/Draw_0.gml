@@ -14,14 +14,24 @@ switch(level) {
 	break;
 }
 
-if(mouseOver(x,y,sprite_width,sprite_height) && level <= global.upgrades_shuriken_tower_level_max) {
-draw_circle(x,y,range,true);
-draw_set_color(c_black);
-draw_text(x-15,y-35,string("Upgrade $"+string(upgrade_cost)));
-draw_set_color(c_white);
+
+
+//var en = instance_nearest(x,y,oEnemy);
+var en = noone;
+var enemiesAmount = instance_number(oEnemy);
+if (enemiesAmount > 0) {
+	var allEnemies;
+	
+	for (var i = 0; i < enemiesAmount; i++ )
+				allEnemies[i] = instance_find(oEnemy, i);
+				
+	for (var i = 0; i < enemiesAmount; i++) {
+		var enemy = allEnemies[i];
+		if (en == noone || en.path_position < enemy.path_position)
+		en = enemy;
+	}
 }
 
-var en = instance_nearest(x,y,oEnemy);
 if(en != noone && point_distance(x,y,en.x,en.y) <= range+16){
 	if(!shooting){
 		alarm[0] = 1;
@@ -33,7 +43,6 @@ if(en != noone && point_distance(x,y,en.x,en.y) <= range+16){
 	if(mouseOver(x,y,sprite_width,sprite_height))
 	draw_line(x,y,en.x,en.y);
 }else{
-	shooting = false;
 	objectToShoot = noone;
 	if(image_index == 0) image_speed = 0;
 }
