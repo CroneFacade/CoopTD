@@ -4,9 +4,9 @@ draw_set_font(fMain);
 draw_set_halign(fa_center);
 
 draw_set_color(c_black);
-draw_text(72,693,string(global.coins));
-draw_text(10,30,"Level " + string(global.level));
-draw_text(10,50,"Health " + string(global.playerHealth));
+draw_text(76,691,string(global.coins));
+draw_text(76,722,string(global.level));
+draw_text(76,663,string(global.playerHealth));
 
 if (restart)
 {
