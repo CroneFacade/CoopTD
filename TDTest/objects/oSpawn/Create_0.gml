@@ -3,8 +3,11 @@
 spawn_amount = 5;
 spawn_count = 0;
 spawn_rate = 0.2 * room_speed;
+end_round_logic = false;
+get = undefined;
 
 
+global.game_debug_mode = false;
 global.hp = 1;
 global.spd = 1;
 global.level = 1;

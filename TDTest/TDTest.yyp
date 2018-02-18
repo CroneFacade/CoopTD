@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0919067f-e1eb-473a-957b-78b7ee58fc26",
+            "Value": {
+                "id": "742cd8f5-1d2d-4295-b3c0-bffa551d793a",
+                "resourcePath": "sprites\\sButton\\sButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d70bea0-f1bd-4e16-bd1d-07206aba2207",
             "Value": {
                 "id": "e36e21ef-7118-4b3f-bad6-6c75515b5216",
@@ -107,6 +115,14 @@
             "Value": {
                 "id": "9b18576c-715a-4b27-ba39-5c4cc638a3d6",
                 "resourcePath": "views\\15038e54-7d00-40b3-b846-c4ca2a18c2bb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1aa18fd3-2dd7-42b7-8df7-866e1d93afad",
+            "Value": {
+                "id": "0446b10a-b3f2-44ca-afb2-f4b4c92ecdce",
+                "resourcePath": "views\\1aa18fd3-2dd7-42b7-8df7-866e1d93afad.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -180,6 +196,14 @@
                 "id": "9c86b15b-5f0d-4fe8-b8b1-7eb57769d71c",
                 "resourcePath": "sprites\\sShuriken_Tower\\sShuriken_Tower.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "333bac29-c62f-4b62-bf51-3fce77792a42",
+            "Value": {
+                "id": "e53667df-6549-4749-94b6-d1fc263d71dd",
+                "resourcePath": "views\\333bac29-c62f-4b62-bf51-3fce77792a42.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -468,6 +492,14 @@
                 "id": "c46294f4-1097-4345-9527-932766e8400a",
                 "resourcePath": "views\\8d68e150-5f69-4231-bbdf-99859a07200f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "90221256-cf1c-47bb-b856-4732cf15fb46",
+            "Value": {
+                "id": "d9cc0eb1-3388-4600-9eae-c470ca595d13",
+                "resourcePath": "objects\\oD_Set_Health_0\\oD_Set_Health_0.yy",
+                "resourceType": "GMObject"
             }
         },
         {
