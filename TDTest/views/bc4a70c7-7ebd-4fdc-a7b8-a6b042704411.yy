@@ -6,7 +6,8 @@
     "children": [
         "30cf8263-ea2c-4faf-b715-6ba912b1be84",
         "5cfc3511-9c9e-43e1-81bd-b0e82ecd1e60",
-        "b76a0d84-57d0-4a26-b700-834477f545db"
+        "b76a0d84-57d0-4a26-b700-834477f545db",
+        "21c0830d-35db-483b-9022-f262671b6407"
     ],
     "filterType": "GMSprite",
     "folderName": "Towers",

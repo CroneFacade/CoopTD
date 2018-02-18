@@ -17,9 +17,6 @@ switch(level) {
 }
 
 
-
-//var en = instance_nearest(x,y,oEnemy);
-var en = noone;
 var enemiesAmount = instance_number(oEnemy);
 if (enemiesAmount > 0) {
 	var allEnemies = [];
@@ -34,33 +31,28 @@ if (enemiesAmount > 0) {
 		// Then, find all instances inside the given radius
 		for (var i = 0; i < enemiesAmount; i++ )
 		{
-			if (allEnemies[i] && point_distance(allEnemies[i].x, allEnemies[i].y, x, y) <= range) {
+			if (allEnemies[i] && point_distance(allEnemies[i].x, allEnemies[i].y, x, y) <= range+16) {
 				enemiesToTarget[count] = allEnemies[i];
 				count++;
 			}
 		}
-				
-	for (var i = 0; i < array_length_1d(enemiesToTarget); i++) {
-		var enemy = enemiesToTarget[i];
-		if (en == noone || en.path_position < enemy.path_position)
-		en = enemy;
-	}
+		
+	objectToShoot = enemiesToTarget;
 	
 	
-	
-}
-
-if(en != noone && point_distance(x,y,en.x,en.y) <= range+16){
 	if(!shooting){
 		alarm[0] = 1;
 		shooting = true;
 		image_speed = room_speed / 32;
 	}
 	
-	objectToShoot = en;
-	if(mouseOver(x,y,sprite_width,sprite_height))
-	draw_line(x,y,en.x,en.y);
+	if(mouseOver(x,y,sprite_width,sprite_height)){
+		for(var i = 0; i < array_length_1d(enemiesToTarget); i++) {
+			draw_line(x,y,enemiesToTarget[i].x,enemiesToTarget[i].y);	
+		}
+	}
+	
 }else{
-	objectToShoot = noone;
+	objectToShoot = [];
 	if(image_index == 0) image_speed = 0;
 }

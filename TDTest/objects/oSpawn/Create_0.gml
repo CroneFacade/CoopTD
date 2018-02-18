@@ -64,6 +64,20 @@ enemy_base_coins[4] = 5;
 enemy_sprites[5] = sHauntedKnight;
 enemy_base_healths[5] = 700;
 enemy_base_speeds[5] = 0.5;
-enemy_base_spawn_rate[5] = 1.2;
-enemy_base_spawn_amount[5] = 0.5;
+enemy_base_spawn_rate[5] = 2.2;
+enemy_base_spawn_amount[5] = 1.5;
 enemy_base_coins[5] = 20;
+//Giant Housefly
+enemy_sprites[5] = sGiant_Housefly;
+enemy_base_healths[5] = 20;
+enemy_base_speeds[5] = 3;
+enemy_base_spawn_rate[5] = 1.2;
+enemy_base_spawn_amount[5] = 5;
+enemy_base_coins[5] = 1;
+//GI Jane
+enemy_sprites[5] = sGI_Jane;
+enemy_base_healths[5] = 1200;
+enemy_base_speeds[5] = 0.5;
+enemy_base_spawn_rate[5] = 20;
+enemy_base_spawn_amount[5] = 0.5;
+enemy_base_coins[5] = 50;
