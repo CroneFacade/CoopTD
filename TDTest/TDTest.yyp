@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0741efb3-2297-4776-a16d-81cc7e6d7926",
+            "Value": {
+                "id": "68bbf003-a39b-40eb-a88e-59b052414c58",
+                "resourcePath": "sprites\\sFlux_Tower\\sFlux_Tower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d70bea0-f1bd-4e16-bd1d-07206aba2207",
             "Value": {
                 "id": "e36e21ef-7118-4b3f-bad6-6c75515b5216",
@@ -367,6 +375,14 @@
             }
         },
         {
+            "Key": "7c1ecb9b-73e8-44da-8f69-1642dd786347",
+            "Value": {
+                "id": "42f3c87c-e4a1-44c5-b552-601bb45ab305",
+                "resourcePath": "sprites\\sPlasma_Flux_Tower\\sPlasma_Flux_Tower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "fd577e8e-8044-45bd-97c5-074dd621bb3f",
@@ -439,6 +455,14 @@
             }
         },
         {
+            "Key": "a10d89a5-f525-42ab-b07d-6bd71b8b463b",
+            "Value": {
+                "id": "9b363e14-55d7-40d3-8473-41ac4511bd57",
+                "resourcePath": "sprites\\sCarbon_Flux_Tower\\sCarbon_Flux_Tower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a8992f21-92e5-4105-9f6c-8b53f319bce6",
             "Value": {
                 "id": "23c81676-4519-42aa-b7ba-396f687c9c6b",
@@ -491,6 +515,14 @@
             "Value": {
                 "id": "acc935f0-c837-4d46-8ba6-3da06f7c5beb",
                 "resourcePath": "views\\afcc7a04-6f34-4629-9a82-07ae45d0ad50.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b76a0d84-57d0-4a26-b700-834477f545db",
+            "Value": {
+                "id": "3e36281c-e83c-4c67-9e00-a998853fba93",
+                "resourcePath": "views\\b76a0d84-57d0-4a26-b700-834477f545db.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -548,6 +580,14 @@
                 "id": "c12170c9-5fc6-4bf3-ac84-40fc630f066d",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ce34a195-305a-4d6d-9b5e-860313a7d953",
+            "Value": {
+                "id": "7c4fd466-98af-4895-8996-d81d58e0177c",
+                "resourcePath": "objects\\oFlux_Tower\\oFlux_Tower.yy",
+                "resourceType": "GMObject"
             }
         },
         {
