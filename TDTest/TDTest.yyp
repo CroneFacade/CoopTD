@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "4d9e22f2-1212-4773-abb5-e0482a5762d9",
+            "Value": {
+                "id": "6e052810-1530-44ab-8a0e-1d15ead3103c",
+                "resourcePath": "objects\\oFlux_TowerC\\oFlux_TowerC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4ddaaa8e-fe46-4d4e-be86-b42fcc2def2f",
             "Value": {
                 "id": "5e86c570-c5ed-4121-9cfe-3852318c5d59",
@@ -564,6 +572,14 @@
                 "id": "3e36281c-e83c-4c67-9e00-a998853fba93",
                 "resourcePath": "views\\b76a0d84-57d0-4a26-b700-834477f545db.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b7d871f6-069d-4a78-8b1e-ad5485cebf79",
+            "Value": {
+                "id": "87b2eaed-fa86-439c-ae50-ca9045cd073b",
+                "resourcePath": "objects\\oFlux_TowerD\\oFlux_TowerD.yy",
+                "resourceType": "GMObject"
             }
         },
         {
