@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1b4e72c9-4a80-42cf-aac8-13514e1d65db",
+            "Value": {
+                "id": "5759cdc5-0654-4a3c-9e6d-c92cf01ed1e3",
+                "resourcePath": "objects\\oTest_Size\\oTest_Size.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1c0563dc-1e5d-4b09-80fe-7bc08c51fe5d",
             "Value": {
                 "id": "4bd44323-8db9-43a4-9d9d-a43c5834f385",
@@ -339,6 +347,14 @@
             "Value": {
                 "id": "91be13f5-ea31-4550-982b-864e6e83a4b9",
                 "resourcePath": "sprites\\sPlasma_Flux_Tower_Projectile\\sPlasma_Flux_Tower_Projectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6ca6d5ac-6f0e-437c-8080-48124fd665e2",
+            "Value": {
+                "id": "f2fc927a-22c1-49a3-a071-7a5ff04b4a25",
+                "resourcePath": "sprites\\sTest_Size\\sTest_Size.yy",
                 "resourceType": "GMSprite"
             }
         },
