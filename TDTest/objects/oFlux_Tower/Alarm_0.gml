@@ -30,8 +30,9 @@ if (is_array(objectToShoot) && array_length_1d(objectToShoot) > 0){
 		
 		bullets[i].direction = point_direction(x,y, objectToShoot[i].x, objectToShoot[i].y);
 		bullets[i].image_angle = point_direction(x,y, objectToShoot[i].x, objectToShoot[i].y);
-		bullets[i].damage = 10 + ((level - 1) * 50)
+		bullets[i].damage = 10 + ((level - 1) * 10)
 		bullets[i].collides_with_enemies = true;
+		bullets[i].stops_at_destination = true;
 		i++;
 }
 	
