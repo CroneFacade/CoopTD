@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "05a79689-913c-4726-bd24-d890e5d576ec",
+            "Value": {
+                "id": "6c6410e4-a09f-4b44-b26b-abac89f17982",
+                "resourcePath": "objects\\oShuriken_TowerC\\oShuriken_TowerC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "06d573ad-1ce4-46f7-9821-c307762328e4",
             "Value": {
                 "id": "5182f43f-3bec-42b9-8380-75a4ed3e5119",
@@ -196,6 +204,14 @@
                 "id": "26f7245d-1d8b-47b4-8fa3-dcb422a94a40",
                 "resourcePath": "views\\2bfd1ff4-d2b8-4f0c-aeaa-b355cc690627.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2d08c73f-f499-4ada-b9ed-d4d1ec481579",
+            "Value": {
+                "id": "c2dcda95-3a67-4130-a949-2a5fa14ec3e9",
+                "resourcePath": "objects\\oTowerD\\oTowerD.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -852,6 +868,14 @@
                 "id": "29c17f41-f8cd-4ced-8d42-812584fd5a02",
                 "resourcePath": "sprites\\sHauntedKnight\\sHauntedKnight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef128cf2-a318-4159-bc9d-c457db1f5a00",
+            "Value": {
+                "id": "20c4bd91-6766-40cd-904d-b645d779d924",
+                "resourcePath": "objects\\oTower\\oTower.yy",
+                "resourceType": "GMObject"
             }
         },
         {
