@@ -2,7 +2,7 @@
     "id": "1b4e72c9-4a80-42cf-aac8-13514e1d65db",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oTest_Size",
+    "name": "oUI_Highscore",
     "eventList": [
         
     ],

@@ -13,9 +13,9 @@ if (restart)
 	draw_set_halign(fa_center);
 	draw_set_color(c_red);
     draw_text(room_width/2, room_height-100, "You died. Press space to restart.");
-	draw_set_color(c_white);
+	draw_set_color(c_black);
 	draw_set_halign(fa_left);
-	draw_highscore(195, 145, room_width - 175, room_height - 125)
+	draw_highscore(245, 145, room_width - 175, room_height - 125)
 }
 
 if (!running)
