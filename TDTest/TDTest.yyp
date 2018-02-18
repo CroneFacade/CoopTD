@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "3875e3ca-e0d5-4863-a051-65e173051b01",
+            "Value": {
+                "id": "1acc55bc-f20d-4b2a-ac01-f695f408ce36",
+                "resourcePath": "sprites\\sSpark_Flux_Tower_Projectile\\sSpark_Flux_Tower_Projectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "0d2d0cc2-8409-4c00-b918-708a5c0ad253",
@@ -319,6 +327,22 @@
             }
         },
         {
+            "Key": "6c727bd3-da72-4306-ad52-2561c863fb6e",
+            "Value": {
+                "id": "91be13f5-ea31-4550-982b-864e6e83a4b9",
+                "resourcePath": "sprites\\sPlasma_Flux_Tower_Projectile\\sPlasma_Flux_Tower_Projectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6d651fb7-405d-42ca-9204-db24c8b749b0",
+            "Value": {
+                "id": "ac111937-50df-43fa-b1a5-69feb08aecab",
+                "resourcePath": "views\\6d651fb7-405d-42ca-9204-db24c8b749b0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6fc7beaf-9e29-4082-9065-141fc009f48b",
             "Value": {
                 "id": "b948b3e4-81c9-47ad-9eed-67d11738e606",
@@ -415,6 +439,14 @@
             }
         },
         {
+            "Key": "8d68e150-5f69-4231-bbdf-99859a07200f",
+            "Value": {
+                "id": "c46294f4-1097-4345-9527-932766e8400a",
+                "resourcePath": "views\\8d68e150-5f69-4231-bbdf-99859a07200f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "92be12e8-ab75-4e93-9361-e0790a042793",
             "Value": {
                 "id": "afd8b4ba-55bc-4984-af00-a3aa822eebd8",
@@ -455,10 +487,18 @@
             }
         },
         {
+            "Key": "a06d636f-0606-47d1-900c-a7ddf54ff9ee",
+            "Value": {
+                "id": "e88cb39f-2eee-4a91-b621-2152a8ed994b",
+                "resourcePath": "views\\a06d636f-0606-47d1-900c-a7ddf54ff9ee.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a10d89a5-f525-42ab-b07d-6bd71b8b463b",
             "Value": {
                 "id": "9b363e14-55d7-40d3-8473-41ac4511bd57",
-                "resourcePath": "sprites\\sCarbon_Flux_Tower\\sCarbon_Flux_Tower.yy",
+                "resourcePath": "sprites\\sSpark_Flux_Tower\\sSpark_Flux_Tower.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -651,6 +691,14 @@
             "Value": {
                 "id": "2f186bf6-81ac-4b8e-842d-2abd9630efd5",
                 "resourcePath": "sprites\\sFarm_House\\sFarm_House.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e19a0806-7064-44d1-83d7-1737785c551a",
+            "Value": {
+                "id": "bafa71ad-e9c9-4b59-8b76-ee80e58741bc",
+                "resourcePath": "sprites\\sFlux_Tower_Projectile\\sFlux_Tower_Projectile.yy",
                 "resourceType": "GMSprite"
             }
         },
