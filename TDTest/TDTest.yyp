@@ -143,6 +143,30 @@
             }
         },
         {
+            "Key": "16eb6831-4fff-48fb-99c5-e1d9db57ca6d",
+            "Value": {
+                "id": "26cf2b25-feb2-4240-9707-aae8f566e46a",
+                "resourcePath": "sprites\\sShard_Tower_Stage3_Animation_Strip\\sShard_Tower_Stage3_Animation_Strip.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "17e08f25-5d8b-4c66-86d6-e80dc23839f0",
+            "Value": {
+                "id": "45965758-da0c-4342-9ee7-ed74ca428861",
+                "resourcePath": "sprites\\sCannon_Tower_Stage2_Fire_Animation\\sCannon_Tower_Stage2_Fire_Animation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "18a5f351-820a-4fec-9965-f1077fcb4979",
+            "Value": {
+                "id": "a78a4334-120b-48be-accb-67c0a5734f49",
+                "resourcePath": "sprites\\sFlux_Tower_Stage3\\sFlux_Tower_Stage3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1aa18fd3-2dd7-42b7-8df7-866e1d93afad",
             "Value": {
                 "id": "0446b10a-b3f2-44ca-afb2-f4b4c92ecdce",
@@ -164,6 +188,14 @@
                 "id": "4bd44323-8db9-43a4-9d9d-a43c5834f385",
                 "resourcePath": "objects\\oBullet\\oBullet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1d5527ac-7cef-434b-9ccc-88cf3c241dad",
+            "Value": {
+                "id": "4f89079f-a1ed-48ed-a98d-6f1fa940bb43",
+                "resourcePath": "sprites\\sFlux_Tower_Stage1\\sFlux_Tower_Stage1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,6 +295,14 @@
             }
         },
         {
+            "Key": "39d203fc-9d9a-47df-a153-6facecd3946c",
+            "Value": {
+                "id": "1c1dbd44-5dcb-4ed5-8c60-8c2e771fd455",
+                "resourcePath": "sprites\\sFlux_Tower_Stage3_Animations_Strip\\sFlux_Tower_Stage3_Animations_Strip.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "0d2d0cc2-8409-4c00-b918-708a5c0ad253",
@@ -295,10 +335,26 @@
             }
         },
         {
+            "Key": "412832ff-19f7-44a1-8149-61cc8d9750b6",
+            "Value": {
+                "id": "42ada068-5574-492b-b455-8fb741572314",
+                "resourcePath": "views\\412832ff-19f7-44a1-8149-61cc8d9750b6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4474e308-19a6-4db3-8336-e8d8e7117096",
             "Value": {
                 "id": "d2c79f70-781e-4c8a-bee4-fb48a116b1d6",
                 "resourcePath": "sprites\\sBackground_Resources\\sBackground_Resources.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "45934a56-7b2a-4469-a1fe-574ea0538d0f",
+            "Value": {
+                "id": "4f7dfbb5-1ffc-4346-b395-1827303fe3ed",
+                "resourcePath": "sprites\\Shard_Tower_Stage1_Projectile\\Shard_Tower_Stage1_Projectile.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -367,6 +423,22 @@
             }
         },
         {
+            "Key": "5787ffbb-ef60-486d-b0c8-47769069b7a0",
+            "Value": {
+                "id": "ff7088f4-8e02-47a3-a43a-6e39dec297c3",
+                "resourcePath": "sprites\\sShard_Tower_Stage3\\sShard_Tower_Stage3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "597f8e87-7dfd-4c41-9919-5719a54313dc",
+            "Value": {
+                "id": "a4d32c96-770f-450f-9a73-0f099c5974c2",
+                "resourcePath": "sprites\\sCannon_Tower_Stage2\\sCannon_Tower_Stage2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5b5192b0-cb77-4f98-9ed6-ff238ceb3a00",
             "Value": {
                 "id": "395d6110-6cf5-487d-a21b-c0b487ea3bf2",
@@ -407,11 +479,27 @@
             }
         },
         {
+            "Key": "69c392ef-ec7d-4296-954c-e62c2973b556",
+            "Value": {
+                "id": "356fbbca-102d-46a6-ad06-96019a83c9f3",
+                "resourcePath": "sprites\\sShuriken_Tower_Stage3\\sShuriken_Tower_Stage3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6b5e0e51-c394-4e5e-b27c-faaeea7c3cec",
             "Value": {
                 "id": "4bb1eb29-a9a6-4d1f-9c8d-8bc6b286843a",
                 "resourcePath": "objects\\oTower1\\oTower1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6b72776c-0e01-4833-bb85-1be2052504b2",
+            "Value": {
+                "id": "09006423-af38-4fdf-a85d-90a4c1e5f4e0",
+                "resourcePath": "sprites\\sCannon_Tower_32x32_Thumbnail\\sCannon_Tower_32x32_Thumbnail.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -431,11 +519,27 @@
             }
         },
         {
+            "Key": "6d37a7ad-5208-45db-82b4-42087eab3a9e",
+            "Value": {
+                "id": "ec6d1b71-ff87-4584-b7b6-43b253fb6b1f",
+                "resourcePath": "sprites\\sShuriken_Tower_Stage1\\sShuriken_Tower_Stage1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d651fb7-405d-42ca-9204-db24c8b749b0",
             "Value": {
                 "id": "ac111937-50df-43fa-b1a5-69feb08aecab",
                 "resourcePath": "views\\6d651fb7-405d-42ca-9204-db24c8b749b0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6fbd9297-4b93-43fb-ba7d-e8df712b9a36",
+            "Value": {
+                "id": "3783b574-a526-4165-9887-3cb33d47c686",
+                "resourcePath": "sprites\\sShard_Tower_Stage2_Projectile\\sShard_Tower_Stage2_Projectile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -487,11 +591,27 @@
             }
         },
         {
+            "Key": "77c2a993-41a8-4ac1-b39a-a7f2a0257bc3",
+            "Value": {
+                "id": "3cf7e4df-3f60-4000-b952-9ca0cbc2debf",
+                "resourcePath": "sprites\\sCannon_Tower_Stage3_Fire_Animation\\sCannon_Tower_Stage3_Fire_Animation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7850731a-dc13-4833-a323-c815992928c8",
             "Value": {
                 "id": "8b6edb8d-449d-4cc6-ac27-d6e13bddfc86",
                 "resourcePath": "views\\7850731a-dc13-4833-a323-c815992928c8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7bbec782-d9cd-4195-b772-0f376c0f43c3",
+            "Value": {
+                "id": "7e53983f-ecbd-43ff-b05c-2c57e5a31629",
+                "resourcePath": "sprites\\sFlux_Tower_Stage2\\sFlux_Tower_Stage2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -535,6 +655,14 @@
             }
         },
         {
+            "Key": "8b221e52-a166-4ba6-b92c-da1556875533",
+            "Value": {
+                "id": "045fa555-a40b-4d54-b487-37c3e4cd91c8",
+                "resourcePath": "sprites\\s_Shuriken_Tower_32x32Thumbnail\\s_Shuriken_Tower_32x32Thumbnail.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8d68e150-5f69-4231-bbdf-99859a07200f",
             "Value": {
                 "id": "c46294f4-1097-4345-9527-932766e8400a",
@@ -548,6 +676,22 @@
                 "id": "d9cc0eb1-3388-4600-9eae-c470ca595d13",
                 "resourcePath": "objects\\oD_Set_Health_0\\oD_Set_Health_0.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "91d8df99-884a-401c-b62c-af9e570d8b8a",
+            "Value": {
+                "id": "2dddec33-03dd-4147-ac45-8bcdb0dc72df",
+                "resourcePath": "sprites\\sShard_Tower_Stage1\\sShard_Tower_Stage1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "92872e80-a5a8-4435-8454-57b7fc97feeb",
+            "Value": {
+                "id": "b641073b-86d3-433c-be36-280118716055",
+                "resourcePath": "sprites\\sCannon_Tower_Stage1\\sCannon_Tower_Stage1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -587,6 +731,14 @@
             "Value": {
                 "id": "1a670eb4-0887-44e0-bf2d-3c8fac1745d0",
                 "resourcePath": "sprites\\sMagic_Shuriken\\sMagic_Shuriken.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9c9356bf-1eea-48c8-bce0-204ce987cb9f",
+            "Value": {
+                "id": "2a8b3717-3efc-443c-9138-66ecd184c1f9",
+                "resourcePath": "sprites\\sShard_Tower_32x32_Thumbnail\\sShard_Tower_32x32_Thumbnail.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -671,6 +823,30 @@
             }
         },
         {
+            "Key": "b24d7808-0fb1-466a-93c0-28084056fb42",
+            "Value": {
+                "id": "c9a64a77-3232-4666-8185-ca4015d04712",
+                "resourcePath": "views\\b24d7808-0fb1-466a-93c0-28084056fb42.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b6de840c-1a53-49fa-baf9-43ebbc23f63a",
+            "Value": {
+                "id": "962c1dfd-a286-4390-9148-3bfa424cbe19",
+                "resourcePath": "views\\b6de840c-1a53-49fa-baf9-43ebbc23f63a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b743d93c-2522-48e0-9992-f3a26109168d",
+            "Value": {
+                "id": "180ea8d6-817c-4a4f-ba4b-c5e083ff881f",
+                "resourcePath": "views\\b743d93c-2522-48e0-9992-f3a26109168d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b76a0d84-57d0-4a26-b700-834477f545db",
             "Value": {
                 "id": "3e36281c-e83c-4c67-9e00-a998853fba93",
@@ -700,6 +876,14 @@
                 "id": "f1713852-0452-46c5-952a-6b498b026647",
                 "resourcePath": "views\\b99d4a6a-da98-4c53-a496-195a2a520994.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b9ea9746-9e14-4573-9f99-71d63b282621",
+            "Value": {
+                "id": "dfe22548-daa2-4bb4-9fdd-0685c413c24d",
+                "resourcePath": "sprites\\sShard_Tower_Stage2\\sShard_Tower_Stage2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -783,11 +967,35 @@
             }
         },
         {
+            "Key": "d4632c4f-3752-4883-ad37-0ce295becf66",
+            "Value": {
+                "id": "d4d031c5-b573-434e-af33-34c94de84d90",
+                "resourcePath": "sprites\\sShuriken_Tower_Stage2\\sShuriken_Tower_Stage2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d6a6709e-bb9b-4094-973d-37320cff8a11",
+            "Value": {
+                "id": "8ce034b4-74d2-410d-af20-adaf7f85fca2",
+                "resourcePath": "sprites\\sCannon_Tower_Stage3\\sCannon_Tower_Stage3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d6b21f2e-1d5c-47f6-a028-91b1fe79a989",
             "Value": {
                 "id": "587633eb-7ffe-4456-8c7d-8bd043590b55",
                 "resourcePath": "paths\\path0\\path0.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "d87802a5-c5e7-4681-9073-92fae9dd0688",
+            "Value": {
+                "id": "08f982a8-b145-4414-9280-68709fd80057",
+                "resourcePath": "sprites\\sFlux_Tower_32x32_Thumbnail\\sFlux_Tower_32x32_Thumbnail.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -847,6 +1055,14 @@
             }
         },
         {
+            "Key": "e3fb5958-8702-4764-bff0-999f0beb7ae7",
+            "Value": {
+                "id": "d6cbbd6e-4bff-4b6a-8412-383e63c0d409",
+                "resourcePath": "sprites\\sCannon_Tower_Stage1_Fire_Animation\\sCannon_Tower_Stage1_Fire_Animation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "24a9cf37-8ea2-4cf6-92b9-81c39074c2e6",
@@ -859,6 +1075,14 @@
             "Value": {
                 "id": "7fad7c59-e7e1-4358-8ad5-60bb5efa0529",
                 "resourcePath": "views\\e591c93b-2191-4f37-a279-ef46c7e40ee6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e685c6b4-0fac-4b0e-bd39-74e966e6b9c6",
+            "Value": {
+                "id": "ebcc0b57-cde1-462f-93c3-ca3189d8684e",
+                "resourcePath": "views\\e685c6b4-0fac-4b0e-bd39-74e966e6b9c6.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -932,6 +1156,14 @@
                 "id": "22249d10-b44b-441c-83d2-653aa4f7f665",
                 "resourcePath": "sprites\\sGiant_Housefly\\sGiant_Housefly.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f4fc0270-14c0-46b0-a1bb-e1355f350835",
+            "Value": {
+                "id": "0ca0c099-86f4-4319-a9a4-8d5d3224ad5d",
+                "resourcePath": "views\\f4fc0270-14c0-46b0-a1bb-e1355f350835.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
