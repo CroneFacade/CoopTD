@@ -26,7 +26,7 @@
     "option_xbone_scale": 0,
     "option_xbone_service_config_id": "",
     "option_xbone_service_config_manifest": "",
-    "option_xbone_splash_screen": "${base_options_dir}\\xboxone\\SplashScreen.png",
+    "option_xbone_splash_screen": "${options_dir}\\xboxone\\SplashScreen.png",
     "option_xbone_splash_screen_colour": {
         "Value": 4282795590
     },
