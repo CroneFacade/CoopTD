@@ -127,14 +127,6 @@
             }
         },
         {
-            "Key": "16eb6831-4fff-48fb-99c5-e1d9db57ca6d",
-            "Value": {
-                "id": "26cf2b25-feb2-4240-9707-aae8f566e46a",
-                "resourcePath": "sprites\\sShard_Tower_Stage3_Animation_Strip\\sShard_Tower_Stage3_Animation_Strip.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "18a5f351-820a-4fec-9965-f1077fcb4979",
             "Value": {
                 "id": "a78a4334-120b-48be-accb-67c0a5734f49",
@@ -231,14 +223,6 @@
             }
         },
         {
-            "Key": "32936d51-12d6-4303-8b61-63bb36d2c422",
-            "Value": {
-                "id": "dc5ed74c-0840-4013-be6b-e579574cf68e",
-                "resourcePath": "sprites\\s64x64TowerTest\\s64x64TowerTest.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "32c3350e-b9cd-4176-b475-5a2a6e521ba9",
             "Value": {
                 "id": "9c86b15b-5f0d-4fe8-b8b1-7eb57769d71c",
@@ -259,14 +243,6 @@
             "Value": {
                 "id": "1acc55bc-f20d-4b2a-ac01-f695f408ce36",
                 "resourcePath": "sprites\\sSpark_Flux_Tower_Projectile\\sSpark_Flux_Tower_Projectile.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "39d203fc-9d9a-47df-a153-6facecd3946c",
-            "Value": {
-                "id": "1c1dbd44-5dcb-4ed5-8c60-8c2e771fd455",
-                "resourcePath": "sprites\\sFlux_Tower_Stage3_Animations_Strip\\sFlux_Tower_Stage3_Animations_Strip.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -322,7 +298,7 @@
             "Key": "45934a56-7b2a-4469-a1fe-574ea0538d0f",
             "Value": {
                 "id": "4f7dfbb5-1ffc-4346-b395-1827303fe3ed",
-                "resourcePath": "sprites\\Shard_Tower_Stage1_Projectile\\Shard_Tower_Stage1_Projectile.yy",
+                "resourcePath": "sprites\\sShard_Tower_Stage1_Projectile\\sShard_Tower_Stage1_Projectile.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -428,6 +404,14 @@
                 "id": "7da2b5c1-bef7-4a7f-8782-c99dbc5bd994",
                 "resourcePath": "fonts\\fMenu\\fMenu.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "66b57573-da11-483c-8361-a06f8efa7adc",
+            "Value": {
+                "id": "5619ed99-6baf-4672-b23d-28fbedeff6fb",
+                "resourcePath": "sprites\\sShard_Tower_64x64_Stage3_Animation\\sShard_Tower_64x64_Stage3_Animation.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -671,6 +655,14 @@
             }
         },
         {
+            "Key": "9a762baf-db91-4e72-8f26-2f65f5d317e5",
+            "Value": {
+                "id": "43b2e5fa-5cd0-45a5-89c0-8c4dee91e3fe",
+                "resourcePath": "sprites\\sFlux_Tower_Stage3_Animations_Strip\\sFlux_Tower_Stage3_Animations_Strip.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9c9356bf-1eea-48c8-bce0-204ce987cb9f",
             "Value": {
                 "id": "2a8b3717-3efc-443c-9138-66ecd184c1f9",
@@ -871,14 +863,6 @@
             }
         },
         {
-            "Key": "d0d48b8c-fef3-407c-9240-ec758a67e8cc",
-            "Value": {
-                "id": "a4f88e1b-144a-4d7b-95d7-b515eb97ed04",
-                "resourcePath": "objects\\o64x64TowerTest\\o64x64TowerTest.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "d3476453-bb7c-4c1b-908c-9c4920d8b200",
             "Value": {
                 "id": "7e7b45ce-c178-4fbd-8ad5-65be8ff0a2fb",
@@ -1004,6 +988,14 @@
                 "id": "c32150c8-6ee2-4b3c-b557-d754481c8cf3",
                 "resourcePath": "views\\e6fafba3-493e-47fc-82ab-bcf2d65bb8be.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e805f9a7-31b6-4fec-91d6-44465d91e217",
+            "Value": {
+                "id": "e5abdc34-43d2-47c2-9e75-dc759aa8b886",
+                "resourcePath": "objects\\oShard_TowerC\\oShard_TowerC.yy",
+                "resourceType": "GMObject"
             }
         },
         {
