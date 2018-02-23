@@ -14,6 +14,7 @@ global.level = 1;
 global.coins = 100;
 global.playerHealth = 100;
 global.holding_tower = false;
+global.used_debug = false
 
 //Upgrades
 global.upgrades_shuriken_tower_level_max = 3;

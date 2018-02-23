@@ -607,6 +607,14 @@
             }
         },
         {
+            "Key": "9d2125e7-28f1-497f-9dfb-e80a25bfa4ad",
+            "Value": {
+                "id": "23702cf2-f68c-4088-9bc7-9e50ba1d9efb",
+                "resourcePath": "objects\\oD_Get_Coins_1000\\oD_Get_Coins_1000.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e0c4af4-e8e5-40eb-b0f2-69199fdab74c",
             "Value": {
                 "id": "c21c0523-efbe-426e-99de-1a96df8c0a3a",

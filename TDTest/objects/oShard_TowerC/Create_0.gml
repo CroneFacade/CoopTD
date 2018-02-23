@@ -1,5 +1,5 @@
 //Tower properties
-tower_sprites = [sShard_Tower_Stage1, sShard_Tower_Stage2, sShard_Tower_Stage3];
+tower_sprites = [sShard_Tower_Stage1, sShard_Tower_Stage2, sShard_Tower_64x64_Stage3_Animation];
 tower_max_level = 3;
 tower_cost = 200;
 tower_upgrade_cost = 200;

@@ -35,6 +35,9 @@ if (enemiesAmount > 0) {
 
 if(en != noone){
 	
+	draw_set_color(c_white);
+	effect_create_below(ef_snow, x, y-40, 300, 1);
+	
 	if (tower_aim_is_single_target)
 	objectsToShoot[0] = en;
 	else objectsToShoot = enemiesToTarget

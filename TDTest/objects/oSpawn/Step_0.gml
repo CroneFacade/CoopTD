@@ -9,6 +9,8 @@ if (global.playerHealth <= 0)
         room_restart();
     }
 	if (!end_round_logic) {
+		
+		if(!global.used_debug)
 		http_get("http://cronee-001-site1.btempurl.com/api/Leaderboard/New?name="+global.player_name+"&level="+string(global.level-1)+"&pleb=da8w76daw87d6aw8c7aw876daw876xc");
 		alarm[2] = 15;
 		 var obj = instance_find(oUI_Highscore,0);
