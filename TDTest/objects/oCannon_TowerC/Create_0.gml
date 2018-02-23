@@ -11,7 +11,7 @@ attack_range_increased_by = 0;
 
 //Attack speed
 base_attack_speed = room_speed * 4;
-attack_speed_increased_by = 0;
+attack_speed_increased_by = -(room_speed);
 
 //Bullet properties
 bullet_sprites = [sBomb, sBomb, sBomb];
@@ -29,7 +29,7 @@ bullet_speed_increased_by = 2;
 
 //Amount
 base_bullet_amount = 1;
-bullet_amount_increase = 1;
+bullet_amount_increase = 0;
 
 //AOE
 base_bullet_aoe_range = 100;

@@ -45,7 +45,7 @@ if(is_array(objectsToShoot) && array_length_1d(objectsToShoot) > 0){
 	}
 	}
 	
-	alarm[0] = base_attack_speed;
+	alarm[0] = base_attack_speed + ((tower_level - 1) * attack_speed_increased_by);
 }else{
 	shooting= false;	
 }
