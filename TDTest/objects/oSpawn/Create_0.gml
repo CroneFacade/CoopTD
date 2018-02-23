@@ -11,7 +11,7 @@ global.game_debug_mode = false;
 global.hp = 1;
 global.spd = 1;
 global.level = 1;
-global.coins = 1000;
+global.coins = 100;
 global.playerHealth = 100;
 global.holding_tower = false;
 
