@@ -7,11 +7,17 @@ if(global.coins >= tower_cost && !global.holding_tower)
 	//Tower properties
 drag_tower.tower_sprites = tower_sprites;
 drag_tower.tower_max_level = tower_max_level;
-drag_tower.base_attack_range = base_attack_range;
-drag_tower.base_attack_speed = base_attack_speed;
 drag_tower.tower_cost = tower_cost;
 drag_tower.tower_upgrade_cost = tower_upgrade_cost;
 drag_tower.tower_aim_is_single_target = tower_aim_is_single_target;
+
+//Attack range
+drag_tower.base_attack_range = base_attack_range;
+drag_tower.attack_range_increased_by = attack_range_increased_by;
+
+//Attack speed
+drag_tower.base_attack_speed = base_attack_speed;
+drag_tower.attack_speed_increased_by = attack_speed_increased_by;
 
 //Bullet properties
 drag_tower.bullet_sprites = bullet_sprites;

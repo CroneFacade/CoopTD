@@ -5,11 +5,17 @@ tower_level = 1;
 //Tower properties
 tower_sprites = [];
 tower_max_level = undefined;
-base_attack_range = undefined;
-base_attack_speed = undefined;
 tower_cost = undefined;
 tower_upgrade_cost = undefined;
 tower_aim_is_single_target = undefined;
+
+//Attack range
+base_attack_range = undefined;
+attack_range_increased_by = undefined;
+
+//Attack speed
+base_attack_speed = undefined;
+attack_speed_increased_by = undefined;
 
 //Bullet properties
 bullet_sprites = [];

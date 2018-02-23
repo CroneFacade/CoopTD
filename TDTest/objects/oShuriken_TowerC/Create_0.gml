@@ -1,11 +1,17 @@
 //Tower properties
 tower_sprites = [sShuriken_Tower_Stage1, sShuriken_Tower_Stage2, sShuriken_Tower_Stage3];
 tower_max_level = 3;
-base_attack_range = 200;
-base_attack_speed = room_speed / 2;
 tower_cost = 50;
 tower_upgrade_cost = 75;
 tower_aim_is_single_target = true;
+
+//Attack range
+base_attack_range = 200;
+attack_range_increased_by = 0;
+
+//Attack speed
+base_attack_speed = room_speed / 2;
+attack_speed_increased_by = 0;
 
 //Bullet properties
 bullet_sprites = [sShuriken, sGolden_Shuriken, sMagic_Shuriken];

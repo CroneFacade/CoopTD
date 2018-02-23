@@ -5,11 +5,18 @@ var tower = instance_create_depth(mouse_x,mouse_y,-1,oTower);
 //Tower properties
 tower.tower_sprites = tower_sprites;
 tower.tower_max_level = tower_max_level;
-tower.base_attack_range = base_attack_range;
-tower.base_attack_speed = base_attack_speed;
 tower.tower_cost = tower_cost;
 tower.tower_upgrade_cost = tower_upgrade_cost;
 tower.tower_aim_is_single_target = tower_aim_is_single_target;
+
+//Tower range
+tower.base_attack_range = base_attack_range;
+tower.attack_range_increased_by = attack_range_increased_by;
+
+//Tower speed
+tower.base_attack_speed = base_attack_speed;
+tower.attack_speed_increased_by = attack_speed_increased_by;
+
 
 //Bullet properties
 tower.bullet_sprites = bullet_sprites;
