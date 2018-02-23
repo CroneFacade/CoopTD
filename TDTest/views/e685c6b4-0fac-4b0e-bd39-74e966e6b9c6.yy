@@ -10,7 +10,7 @@
         "b6de840c-1a53-49fa-baf9-43ebbc23f63a"
     ],
     "filterType": "GMSprite",
-    "folderName": "64x64 Towers+Animations",
+    "folderName": "Towers",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
