@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "0741efb3-2297-4776-a16d-81cc7e6d7926",
-            "Value": {
-                "id": "68bbf003-a39b-40eb-a88e-59b052414c58",
-                "resourcePath": "sprites\\sFlux_Tower\\sFlux_Tower.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0919067f-e1eb-473a-957b-78b7ee58fc26",
             "Value": {
                 "id": "742cd8f5-1d2d-4295-b3c0-bffa551d793a",
@@ -92,14 +84,6 @@
                 "id": "4e77103e-df1c-4d42-af33-f9a30205c2c5",
                 "resourcePath": "views\\0dda9fb0-38e1-44fa-b377-335e739594cc.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "136e032d-9d08-4dad-8ba0-f64d4b3f5e49",
-            "Value": {
-                "id": "f9f6318f-fd25-47af-af26-c657ef4f4869",
-                "resourcePath": "sprites\\sLaser_Tower\\sLaser_Tower.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -175,14 +159,6 @@
             }
         },
         {
-            "Key": "21c0830d-35db-483b-9022-f262671b6407",
-            "Value": {
-                "id": "e860f9c0-946b-49db-958c-3a89fb6609c3",
-                "resourcePath": "views\\21c0830d-35db-483b-9022-f262671b6407.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "292f84c0-618f-4db2-80c6-69e5dccf120b",
             "Value": {
                 "id": "17a04846-d497-4f0a-bb0b-c2b750dd7c85",
@@ -212,22 +188,6 @@
                 "id": "90146fc0-4361-415b-9af7-a9d613484e60",
                 "resourcePath": "views\\306ede73-024d-4029-a9f4-0d75b035e59c.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "30cf8263-ea2c-4faf-b715-6ba912b1be84",
-            "Value": {
-                "id": "ab9af22d-8a58-4da9-87ab-b6d4f5b520ef",
-                "resourcePath": "views\\30cf8263-ea2c-4faf-b715-6ba912b1be84.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "32c3350e-b9cd-4176-b475-5a2a6e521ba9",
-            "Value": {
-                "id": "9c86b15b-5f0d-4fe8-b8b1-7eb57769d71c",
-                "resourcePath": "sprites\\sShuriken_Tower\\sShuriken_Tower.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -371,14 +331,6 @@
             "Value": {
                 "id": "395d6110-6cf5-487d-a21b-c0b487ea3bf2",
                 "resourcePath": "views\\5b5192b0-cb77-4f98-9ed6-ff238ceb3a00.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "5cfc3511-9c9e-43e1-81bd-b0e82ecd1e60",
-            "Value": {
-                "id": "fe3bae96-a30d-4a1a-bed5-d63de68fec5e",
-                "resourcePath": "views\\5cfc3511-9c9e-43e1-81bd-b0e82ecd1e60.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -535,14 +487,6 @@
             }
         },
         {
-            "Key": "7c1ecb9b-73e8-44da-8f69-1642dd786347",
-            "Value": {
-                "id": "42f3c87c-e4a1-44c5-b552-601bb45ab305",
-                "resourcePath": "sprites\\sPlasma_Flux_Tower\\sPlasma_Flux_Tower.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "fd577e8e-8044-45bd-97c5-074dd621bb3f",
@@ -631,14 +575,6 @@
             }
         },
         {
-            "Key": "97da40ac-46eb-47f7-b857-720a5783efaa",
-            "Value": {
-                "id": "cd776984-052f-4ca4-9835-9781dbf5ce6f",
-                "resourcePath": "sprites\\sMagic_Shuriken_Tower\\sMagic_Shuriken_Tower.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "98fdce4d-22d7-4ff4-b79f-f1463dbce1d4",
             "Value": {
                 "id": "264b7ce1-6331-406d-b005-3b5681b3f5e9",
@@ -687,14 +623,6 @@
             }
         },
         {
-            "Key": "a10d89a5-f525-42ab-b07d-6bd71b8b463b",
-            "Value": {
-                "id": "9b363e14-55d7-40d3-8473-41ac4511bd57",
-                "resourcePath": "sprites\\sSpark_Flux_Tower\\sSpark_Flux_Tower.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a8992f21-92e5-4105-9f6c-8b53f319bce6",
             "Value": {
                 "id": "23c81676-4519-42aa-b7ba-396f687c9c6b",
@@ -724,14 +652,6 @@
                 "id": "a1e9fb3e-ac7a-4d4e-974b-2a226f952c28",
                 "resourcePath": "fonts\\fMain\\fMain.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "ac9d05ea-fe3b-4a64-b1ab-1ec8aeb17c9e",
-            "Value": {
-                "id": "7de8a3c2-e505-47cd-80dd-f72ec5d26b12",
-                "resourcePath": "sprites\\sGolden_Shuriken_Tower\\sGolden_Shuriken_Tower.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -775,14 +695,6 @@
             }
         },
         {
-            "Key": "b76a0d84-57d0-4a26-b700-834477f545db",
-            "Value": {
-                "id": "3e36281c-e83c-4c67-9e00-a998853fba93",
-                "resourcePath": "views\\b76a0d84-57d0-4a26-b700-834477f545db.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "b978d79c-6974-4e80-9c51-7a94e133e450",
             "Value": {
                 "id": "88aeeb34-a300-4e3e-b5a4-c545222330bc",
@@ -812,14 +724,6 @@
                 "id": "d5170f2c-b0e4-48e7-9317-4d6ca0dc9a5e",
                 "resourcePath": "objects\\oSpawn\\oSpawn.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "bc4a70c7-7ebd-4fdc-a7b8-a6b042704411",
-            "Value": {
-                "id": "9466fef1-8c0e-4354-8248-604eceac9679",
-                "resourcePath": "views\\bc4a70c7-7ebd-4fdc-a7b8-a6b042704411.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -916,14 +820,6 @@
                 "id": "14beed6b-a5cd-4829-a995-4c7b06a578cb",
                 "resourcePath": "views\\dd3c905c-6244-4b53-8eaa-49e875f27bdb.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "de0a45c5-d321-4e36-99ed-a96ca48683b4",
-            "Value": {
-                "id": "bba68710-408a-4b37-ab3e-7f57a34e6d16",
-                "resourcePath": "sprites\\sCannon_Tower\\sCannon_Tower.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
