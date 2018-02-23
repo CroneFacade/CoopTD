@@ -87,27 +87,11 @@
             }
         },
         {
-            "Key": "0d70bea0-f1bd-4e16-bd1d-07206aba2207",
-            "Value": {
-                "id": "e36e21ef-7118-4b3f-bad6-6c75515b5216",
-                "resourcePath": "objects\\oCannonTowerC\\oCannonTowerC.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0dda9fb0-38e1-44fa-b377-335e739594cc",
             "Value": {
                 "id": "4e77103e-df1c-4d42-af33-f9a30205c2c5",
                 "resourcePath": "views\\0dda9fb0-38e1-44fa-b377-335e739594cc.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "0f3f31c1-35e6-44b1-8b1d-af4c055c17d8",
-            "Value": {
-                "id": "e6418f00-b536-417d-ae00-ce875d275b69",
-                "resourcePath": "objects\\oCannonTowerD\\oCannonTowerD.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -147,14 +131,6 @@
             "Value": {
                 "id": "26cf2b25-feb2-4240-9707-aae8f566e46a",
                 "resourcePath": "sprites\\sShard_Tower_Stage3_Animation_Strip\\sShard_Tower_Stage3_Animation_Strip.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "17e08f25-5d8b-4c66-86d6-e80dc23839f0",
-            "Value": {
-                "id": "45965758-da0c-4342-9ee7-ed74ca428861",
-                "resourcePath": "sprites\\sCannon_Tower_Stage2_Fire_Animation\\sCannon_Tower_Stage2_Fire_Animation.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -212,14 +188,6 @@
                 "id": "e860f9c0-946b-49db-958c-3a89fb6609c3",
                 "resourcePath": "views\\21c0830d-35db-483b-9022-f262671b6407.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "22a87f89-43bf-4969-92ad-670372513882",
-            "Value": {
-                "id": "94657f67-bb68-4d78-ab75-9901658e3294",
-                "resourcePath": "objects\\oTower1C\\oTower1C.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -367,22 +335,6 @@
             }
         },
         {
-            "Key": "4995dd3d-8a4b-4505-a330-806c23f2ca29",
-            "Value": {
-                "id": "b8cf6d30-0e17-40f2-aa49-4c050824520c",
-                "resourcePath": "objects\\oCannon_Tower\\oCannon_Tower.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "49bad9d1-0afe-41bb-8270-afe09769d3f7",
-            "Value": {
-                "id": "9f1d86cb-e886-4116-a27d-4c12f9013d68",
-                "resourcePath": "objects\\oTower1D\\oTower1D.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4d9e22f2-1212-4773-abb5-e0482a5762d9",
             "Value": {
                 "id": "6e052810-1530-44ab-8a0e-1d15ead3103c",
@@ -487,14 +439,6 @@
             }
         },
         {
-            "Key": "6b5e0e51-c394-4e5e-b27c-faaeea7c3cec",
-            "Value": {
-                "id": "4bb1eb29-a9a6-4d1f-9c8d-8bc6b286843a",
-                "resourcePath": "objects\\oTower1\\oTower1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "6b72776c-0e01-4833-bb85-1be2052504b2",
             "Value": {
                 "id": "09006423-af38-4fdf-a85d-90a4c1e5f4e0",
@@ -588,14 +532,6 @@
                 "id": "24410b59-6f9b-4300-a2ec-d5582e7ba8cc",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
-            }
-        },
-        {
-            "Key": "77c2a993-41a8-4ac1-b39a-a7f2a0257bc3",
-            "Value": {
-                "id": "3cf7e4df-3f60-4000-b952-9ca0cbc2debf",
-                "resourcePath": "sprites\\sCannon_Tower_Stage3_Fire_Animation\\sCannon_Tower_Stage3_Fire_Animation.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -855,14 +791,6 @@
             }
         },
         {
-            "Key": "b7d871f6-069d-4a78-8b1e-ad5485cebf79",
-            "Value": {
-                "id": "87b2eaed-fa86-439c-ae50-ca9045cd073b",
-                "resourcePath": "objects\\oFlux_TowerD\\oFlux_TowerD.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "b978d79c-6974-4e80-9c51-7a94e133e450",
             "Value": {
                 "id": "88aeeb34-a300-4e3e-b5a4-c545222330bc",
@@ -919,19 +847,19 @@
             }
         },
         {
+            "Key": "c2fe01ee-30ec-4bbb-b784-bdc400b8b985",
+            "Value": {
+                "id": "ff5c6ebd-1e6e-4e18-8480-43bf635c0e02",
+                "resourcePath": "objects\\oCannon_TowerC\\oCannon_TowerC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "c12170c9-5fc6-4bf3-ac84-40fc630f066d",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "ce34a195-305a-4d6d-9b5e-860313a7d953",
-            "Value": {
-                "id": "7c4fd466-98af-4895-8996-d81d58e0177c",
-                "resourcePath": "objects\\oFlux_Tower\\oFlux_Tower.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -999,14 +927,6 @@
             }
         },
         {
-            "Key": "dced35f4-13c6-4251-b88f-cd3e6a202b5e",
-            "Value": {
-                "id": "4ac1c751-6209-4544-8842-c19d5433491b",
-                "resourcePath": "views\\dced35f4-13c6-4251-b88f-cd3e6a202b5e.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "dd3c905c-6244-4b53-8eaa-49e875f27bdb",
             "Value": {
                 "id": "14beed6b-a5cd-4829-a995-4c7b06a578cb",
@@ -1052,14 +972,6 @@
                 "id": "9979eca8-1423-437b-a67a-c19c0884c5a4",
                 "resourcePath": "sounds\\sMenuSwitch\\sMenuSwitch.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "e3fb5958-8702-4764-bff0-999f0beb7ae7",
-            "Value": {
-                "id": "d6cbbd6e-4bff-4b6a-8412-383e63c0d409",
-                "resourcePath": "sprites\\sCannon_Tower_Stage1_Fire_Animation\\sCannon_Tower_Stage1_Fire_Animation.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

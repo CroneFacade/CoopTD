@@ -1,18 +1,37 @@
+objectsToShoot = [];
+shooting = false;
+tower_level = 1;
+
 //Tower properties
-tower_sprites = [sShuriken_Tower];
-tower_max_level = 0;
-tower_level = 0;
-base_attack_range = 0;
-base_attack_speed = 0;
+tower_sprites = [];
+tower_max_level = undefined;
+base_attack_range = undefined;
+base_attack_speed = undefined;
+tower_cost = undefined;
+tower_upgrade_cost = undefined;
+tower_aim_is_single_target = undefined;
 
 //Bullet properties
-bullet_sprites = [sShuriken];
-base_bullet_damage = 0;
-base_bullet_speed = 0;
-base_bullet_aoe_range = 0;
-bullet_damage_is_multiplied = false;
-bullet_speed_is_multiplied = false;
-bullet_is_piercing = false;
-bullet_has_infinite_range = false;
-bullet_has_aoe = false;
-bullet_has_collision = false;
+bullet_sprites = [];
+bullet_is_piercing = undefined;
+bullet_has_infinite_range = undefined;
+bullet_has_collision = undefined;
+
+//Damage
+base_bullet_damage = undefined;
+bullet_damage_increased_by = undefined;
+
+//Speed
+base_bullet_speed = undefined;
+bullet_speed_increased_by = undefined;
+
+//Amount
+base_bullet_amount = undefined;
+bullet_amount_increase = undefined;
+
+//AOE
+base_bullet_aoe_range = undefined;
+bullet_aoe_increased_by = undefined;
+
+
+
