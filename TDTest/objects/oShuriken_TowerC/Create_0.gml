@@ -14,7 +14,7 @@ base_attack_speed = room_speed / 2;
 attack_speed_increased_by = 0;
 
 //Bullet properties
-bullet_sprites = [sShuriken, sGolden_Shuriken, sMagic_Shuriken];
+bullet_sprites = [sShuriken, sShuriken, sShuriken];
 bullet_is_piercing = false;
 bullet_has_infinite_range = true;
 bullet_has_collision = true;

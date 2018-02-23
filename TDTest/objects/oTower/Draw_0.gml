@@ -42,7 +42,7 @@ if(en != noone){
 	if(!shooting){
 		alarm[0] = 1;
 		shooting = true;
-		image_speed = (room_speed / 3600);
+		image_speed = (room_speed / 360);
 	}
 	
 	
@@ -54,5 +54,11 @@ if(en != noone){
 	}
 }else{
 	objectsToShoot = [];
-	if(image_index == 0) image_speed = 0;
+	en = noone;
+	if(image_index < 1) {
+		image_speed = 0;
+		image_index = 0;
+	}
+	
+	
 }

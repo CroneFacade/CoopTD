@@ -1,5 +1,5 @@
 //Tower properties
-tower_sprites = [sFlux_Tower_Stage1, sFlux_Tower_Stage2, sFlux_Tower_Stage3];
+tower_sprites = [sFlux_Tower_Stage1, sFlux_Tower_Stage2, sFlux_Tower_Stage3_Animations_Strip];
 tower_max_level = 3;
 tower_cost = 150;
 tower_upgrade_cost = 100;
@@ -14,7 +14,7 @@ base_attack_speed = room_speed / 20;
 attack_speed_increased_by = 0;
 
 //Bullet properties
-bullet_sprites = [sFlux_Tower_Projectile, sPlasma_Flux_Tower_Projectile, sSpark_Flux_Tower_Projectile];
+bullet_sprites = [sFlux_Tower_Projectile, sFlux_Tower_Projectile, sFlux_Tower_Projectile];
 bullet_is_piercing = false;
 bullet_has_infinite_range = false;
 bullet_has_collision = true;

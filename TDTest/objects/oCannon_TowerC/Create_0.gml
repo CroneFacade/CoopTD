@@ -29,11 +29,11 @@ bullet_speed_increased_by = 2;
 
 //Amount
 base_bullet_amount = 1;
-bullet_amount_increase = 0;
+bullet_amount_increase = 1;
 
 //AOE
-base_bullet_aoe_range = 150;
-bullet_aoe_increased_by = 50;
+base_bullet_aoe_range = 100;
+bullet_aoe_increased_by = 25;
 
 
 

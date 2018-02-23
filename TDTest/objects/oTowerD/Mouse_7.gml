@@ -1,6 +1,6 @@
 if(color == c_white){
 instance_destroy();
-var tower = instance_create_depth(mouse_x,mouse_y,-1,oTower);
+var tower = instance_create_depth(mouse_x,mouse_y,-1 - (mouse_y),oTower);
 
 //Tower properties
 tower.tower_sprites = tower_sprites;
