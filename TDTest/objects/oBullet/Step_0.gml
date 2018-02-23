@@ -8,7 +8,7 @@ if(stops_at_destination && distance_to_point(destination_x, destination_y) < 2){
 		//Explode
 		
 		effect_create_below(ef_smokeup, destination_x, destination_y, choose(0, 1, 2), c_dkgray);
-		var particle = instance_create_depth(destination_x, destination_y, -9, oExplosion);
+		var particle = instance_create_depth(destination_x, destination_y, -999, oExplosion);
 		particle.alarm[0] = 3;
 		particle.image_xscale = area_of_effect / particle.sprite_width;
 		particle.image_yscale = area_of_effect / particle.sprite_height;

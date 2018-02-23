@@ -15,7 +15,7 @@ if(is_array(objectsToShoot) && array_length_1d(objectsToShoot) > 0){
 	var count = 1;
 	var dir = -1;
 	for(var i = 0; i < bullet_amount; i++) {
-		bullets[i] = instance_create_depth(x,y,-9,oBullet);
+		bullets[i] = instance_create_depth(x,y,-999,oBullet);
 		bullets[i].speed = base_bullet_speed + ((tower_level - 1) * bullet_speed_increased_by);
 		bullets[i].sprite_index = bullet_sprites[(tower_level - 1)];
 		bullets[i].image_angle = point_direction(x,y, objectsToShoot[t].x, objectsToShoot[t].y);
