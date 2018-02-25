@@ -43,7 +43,7 @@ enemy_base_coins[1] = 2;
 //Beholder
 enemy_sprites[2] = sBeholder;
 enemy_base_healths[2] = 700;
-enemy_base_speeds[2] = 0.9;
+enemy_base_speeds[2] = 0.8;
 enemy_base_spawn_rate[2] = 5;
 enemy_base_spawn_amount[2] = 0.5;
 enemy_base_coins[2] = 15;
@@ -106,7 +106,7 @@ enemy_base_coins[10] = 100;
 //Shadow_Ninja
 enemy_sprites[11] = sShadow_Ninja;
 enemy_base_healths[11] = 800;
-enemy_base_speeds[11] = 0.9;
+enemy_base_speeds[11] = 0.7;
 enemy_base_spawn_rate[11] = 5;
 enemy_base_spawn_amount[11] = 0.5;
 enemy_base_coins[11] = 25;
