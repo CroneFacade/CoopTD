@@ -11,7 +11,9 @@
         "f7bff39a-71d7-4487-b48d-597c4140b32d",
         "ed677994-d03e-4455-8776-4b9bcdff4490",
         "f4382f8d-c540-4993-b9c0-b4f0033d2304",
-        "9e0c4af4-e8e5-40eb-b0f2-69199fdab74c"
+        "9e0c4af4-e8e5-40eb-b0f2-69199fdab74c",
+        "b6e127dc-20d0-4885-aed4-a49727900b8d",
+        "3826a34e-d60b-415e-8bfe-475ce63b1172"
     ],
     "filterType": "GMSprite",
     "folderName": "Creatures",

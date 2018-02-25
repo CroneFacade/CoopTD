@@ -4,7 +4,9 @@
     "mvc": "1.1",
     "name": "03734298-6c45-474f-ba43-0487a0c18c19",
     "children": [
-        "13dc3442-7b70-4974-a972-c60d19432d2a"
+        "13dc3442-7b70-4974-a972-c60d19432d2a",
+        "049513f2-6d7f-4261-a139-e4776f3c7058",
+        "0975094f-da3a-4364-be1c-11014c6b5931"
     ],
     "filterType": "GMObject",
     "folderName": "Dodad_Utilities",

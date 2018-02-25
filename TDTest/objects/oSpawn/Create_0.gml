@@ -74,7 +74,7 @@ enemy_base_healths[6] = 20;
 enemy_base_speeds[6] = 3;
 enemy_base_spawn_rate[6] = 1.2;
 enemy_base_spawn_amount[6] = 5;
-enemy_base_coins[6] = 1;
+enemy_base_coins[6] = 2;
 //GI Jane
 enemy_sprites[7] = sGI_Jane;
 enemy_base_healths[7] = 1200;
@@ -82,3 +82,17 @@ enemy_base_speeds[7] = 0.5;
 enemy_base_spawn_rate[7] = 20;
 enemy_base_spawn_amount[7] = 0.5;
 enemy_base_coins[7] = 50;
+//Wraith
+enemy_sprites[8] = sWraith;
+enemy_base_healths[8] = 800;
+enemy_base_speeds[8] = 0.5;
+enemy_base_spawn_rate[8] = 2.0;
+enemy_base_spawn_amount[8] = 1.5;
+enemy_base_coins[8] = 24;
+//Axe Skeleton
+enemy_sprites[9] = sAxe_Skeleton;
+enemy_base_healths[9] = 1000;
+enemy_base_speeds[9] = 0.5;
+enemy_base_spawn_rate[9] = 2.0;
+enemy_base_spawn_amount[9] = 0.8;
+enemy_base_coins[9] = 35;

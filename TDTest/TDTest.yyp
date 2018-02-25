@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "049513f2-6d7f-4261-a139-e4776f3c7058",
+            "Value": {
+                "id": "1da652e2-6b69-40b9-b5d3-9e8b3088e159",
+                "resourcePath": "objects\\oSkull_N_Bones1\\oSkull_N_Bones1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "05a79689-913c-4726-bd24-d890e5d576ec",
             "Value": {
                 "id": "6c6410e4-a09f-4b44-b26b-abac89f17982",
@@ -76,6 +84,14 @@
                 "id": "742cd8f5-1d2d-4295-b3c0-bffa551d793a",
                 "resourcePath": "sprites\\sButton\\sButton.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0975094f-da3a-4364-be1c-11014c6b5931",
+            "Value": {
+                "id": "9266d1f9-b909-40dc-aa15-c20b84f6c9eb",
+                "resourcePath": "objects\\oSkull_N_Bones_2\\oSkull_N_Bones_2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -196,6 +212,14 @@
                 "id": "e53667df-6549-4749-94b6-d1fc263d71dd",
                 "resourcePath": "views\\333bac29-c62f-4b62-bf51-3fce77792a42.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3826a34e-d60b-415e-8bfe-475ce63b1172",
+            "Value": {
+                "id": "fe8b87b8-7851-4acb-b124-9039758cd258",
+                "resourcePath": "sprites\\sWraith\\sWraith.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -455,6 +479,14 @@
             }
         },
         {
+            "Key": "739aa081-2c76-4df6-a015-73068b664c5a",
+            "Value": {
+                "id": "6c26f5ca-e1bf-4758-9a0d-6ee48eed8a42",
+                "resourcePath": "sprites\\sSkull_N_Bones1\\sSkull_N_Bones1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "74fb9697-a4a8-435d-be10-0365aefe2074",
             "Value": {
                 "id": "11deaf3b-e53b-468a-8357-f0105393e4f1",
@@ -623,6 +655,14 @@
             }
         },
         {
+            "Key": "9f2c5804-0adf-4e13-8ada-e717bf049ab0",
+            "Value": {
+                "id": "ba1a79df-8adb-4bae-b995-81045a53cb9e",
+                "resourcePath": "sprites\\sSkull_N_Bones2\\sSkull_N_Bones2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a06d636f-0606-47d1-900c-a7ddf54ff9ee",
             "Value": {
                 "id": "e88cb39f-2eee-4a91-b621-2152a8ed994b",
@@ -692,6 +732,14 @@
                 "id": "962c1dfd-a286-4390-9148-3bfa424cbe19",
                 "resourcePath": "views\\b6de840c-1a53-49fa-baf9-43ebbc23f63a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b6e127dc-20d0-4885-aed4-a49727900b8d",
+            "Value": {
+                "id": "60f81e75-71ce-411d-b261-4d58933fcb52",
+                "resourcePath": "sprites\\sAxe_Skeleton\\sAxe_Skeleton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
