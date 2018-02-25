@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "998a33ba-6876-4132-919e-541af29004ec",
+            "Value": {
+                "id": "17642149-f036-4aad-94ba-32f6fb048be5",
+                "resourcePath": "sprites\\sUI_Main_Tooltip\\sUI_Main_Tooltip.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "99e7f4a3-b7ad-478a-add2-3038766525bd",
             "Value": {
                 "id": "1a670eb4-0887-44e0-bf2d-3c8fac1745d0",
