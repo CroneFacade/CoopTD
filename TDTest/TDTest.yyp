@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "1d92432e-0b50-422c-931e-6603f4de3c33",
+            "Value": {
+                "id": "89499462-4b9f-4dbc-8380-b6d4d952b7c6",
+                "resourcePath": "objects\\oBroken_Sword\\oBroken_Sword.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1fa7b08a-46a5-4661-a487-24d1018be9ce",
             "Value": {
                 "id": "a50a0a1f-1d84-4563-9190-f5990a4fcddd",
@@ -524,6 +532,14 @@
                 "id": "8b6edb8d-449d-4cc6-ac27-d6e13bddfc86",
                 "resourcePath": "views\\7850731a-dc13-4833-a323-c815992928c8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "79df0d3a-6a83-4d99-bcd7-46dccf0bd5b9",
+            "Value": {
+                "id": "31dac469-b1c8-4464-a5f3-09f83a6a4a04",
+                "resourcePath": "sprites\\sBroken_Sword\\sBroken_Sword.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -907,6 +923,14 @@
             "Value": {
                 "id": "2f186bf6-81ac-4b8e-842d-2abd9630efd5",
                 "resourcePath": "sprites\\sFarm_House\\sFarm_House.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df4e2dbc-f3b9-4f6b-b83e-8f9c03ccc061",
+            "Value": {
+                "id": "1272c123-d334-4ab0-9521-63ed6c616151",
+                "resourcePath": "sprites\\sBackground_Resources_Version2\\sBackground_Resources_Version2.yy",
                 "resourceType": "GMSprite"
             }
         },
