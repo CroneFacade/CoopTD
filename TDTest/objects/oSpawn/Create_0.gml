@@ -96,3 +96,17 @@ enemy_base_speeds[9] = 0.5;
 enemy_base_spawn_rate[9] = 2.0;
 enemy_base_spawn_amount[9] = 0.8;
 enemy_base_coins[9] = 35;
+//Golden Knight
+enemy_sprites[10] = sGolden_Knight;
+enemy_base_healths[10] = 2200;
+enemy_base_speeds[10] = 0.35;
+enemy_base_spawn_rate[10] = 30;
+enemy_base_spawn_amount[10] = 0.2;
+enemy_base_coins[10] = 100;
+//Shadow_Ninja
+enemy_sprites[11] = sShadow_Ninja;
+enemy_base_healths[11] = 800;
+enemy_base_speeds[11] = 0.9;
+enemy_base_spawn_rate[11] = 5;
+enemy_base_spawn_amount[11] = 0.5;
+enemy_base_coins[11] = 25;

@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "1a89e8b8-3d3c-481f-ab8b-731dca61849d",
+            "Value": {
+                "id": "5aec9889-b373-4616-8d83-297c759f6de2",
+                "resourcePath": "sprites\\sGolden_Knight\\sGolden_Knight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1aa18fd3-2dd7-42b7-8df7-866e1d93afad",
             "Value": {
                 "id": "0446b10a-b3f2-44ca-afb2-f4b4c92ecdce",
@@ -339,6 +347,14 @@
             "Value": {
                 "id": "ff7088f4-8e02-47a3-a43a-6e39dec297c3",
                 "resourcePath": "sprites\\sShard_Tower_Stage3\\sShard_Tower_Stage3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "590dde20-039a-4dcf-8cf1-040b7f44a51d",
+            "Value": {
+                "id": "8b5ebbc9-a780-434b-971e-fce853c1ce5b",
+                "resourcePath": "sprites\\sShadow_Ninja\\sShadow_Ninja.yy",
                 "resourceType": "GMSprite"
             }
         },
