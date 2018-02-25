@@ -41,7 +41,13 @@ drag_tower.bullet_amount_increase = bullet_amount_increase;
 drag_tower.base_bullet_aoe_range = base_bullet_aoe_range;
 drag_tower.bullet_aoe_increased_by = bullet_aoe_increased_by;
 
-
+//Afflictions
+drag_tower.bullet_affliction = bullet_affliction;
+drag_tower.bullet_affliction_strength = bullet_affliction_strength;
+drag_tower.bullet_affliction_strength_increased_by = bullet_affliction_strength_increased_by;
+drag_tower.bullet_affliction_stacks = bullet_affliction_stacks;
+drag_tower.bullet_affliction_time = bullet_affliction_time;
+drag_tower.bullet_affliction_time_increased_by = bullet_affliction_time_increased_by;
 
 
 	global.coins -= tower_cost;

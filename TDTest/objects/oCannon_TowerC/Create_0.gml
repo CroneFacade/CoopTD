@@ -35,5 +35,14 @@ bullet_amount_increase = 0;
 base_bullet_aoe_range = 100;
 bullet_aoe_increased_by = 25;
 
-
+//Afflictions
+// You can use "slow", more coming on demand
+bullet_affliction = "";
+//Affliction strength in %
+bullet_affliction_strength = 0.1;
+bullet_affliction_strength_increased_by = 0.3;
+bullet_affliction_stacks = false;
+//Affliction time in seconds
+bullet_affliction_time = 3;
+bullet_affliction_time_increased_by = 5;
 

@@ -20,8 +20,8 @@ bullet_has_infinite_range = false;
 bullet_has_collision = true;
 
 //Damage
-base_bullet_damage = 10;
-bullet_damage_increased_by = 10;
+base_bullet_damage = 5;
+bullet_damage_increased_by = 5;
 
 //Speed
 base_bullet_speed = 10;
@@ -34,6 +34,17 @@ bullet_amount_increase = 0;
 //AOE
 base_bullet_aoe_range = 0;
 bullet_aoe_increased_by = 0;
+
+//Afflictions
+// You can use "slow", more coming on demand
+bullet_affliction = "";
+//Affliction strength in %
+bullet_affliction_strength = 0.1;
+bullet_affliction_strength_increased_by = 0.3;
+bullet_affliction_stacks = false;
+//Affliction time in seconds
+bullet_affliction_time = 3;
+bullet_affliction_time_increased_by = 5;
 
 
 

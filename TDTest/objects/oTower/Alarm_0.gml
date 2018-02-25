@@ -21,10 +21,15 @@ if(is_array(objectsToShoot) && array_length_1d(objectsToShoot) > 0){
 		bullets[i].image_angle = point_direction(x,y, objectsToShoot[t].x, objectsToShoot[t].y);
 		bullets[i].damage = base_bullet_damage + ((tower_level - 1) * bullet_damage_increased_by);
 		bullets[i].collides_with_enemies = bullet_has_collision;
+		bullets[i].is_piercing = bullet_is_piercing;
 		bullets[i].destination_x = objectsToShoot[t].x;
 		bullets[i].destination_y = objectsToShoot[t].y;
 		bullets[i].stops_at_destination = !bullet_has_infinite_range;
 		bullets[i].area_of_effect = base_bullet_aoe_range + ((tower_level - 1)* bullet_aoe_increased_by);
+		bullets[i].bullet_affliction = bullet_affliction;
+		bullets[i].bullet_affliction_strength = bullet_affliction_strength + ((tower_level -1) * bullet_affliction_strength_increased_by);
+		bullets[i].bullet_affliction_stacks = bullet_affliction_stacks;
+		bullets[i].bullet_affliction_time = bullet_affliction_time + ((tower_level -1) * bullet_affliction_time_increased_by);
 		
 		
 		

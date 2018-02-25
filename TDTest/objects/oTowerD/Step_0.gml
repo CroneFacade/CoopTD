@@ -52,6 +52,15 @@ tower.bullet_has_aoe = bullet_has_aoe;
 tower.base_bullet_aoe_range = base_bullet_aoe_range;
 tower.bullet_aoe_increased_by = bullet_aoe_increased_by;
 
+//Afflictions
+tower.bullet_affliction = bullet_affliction;
+tower.bullet_affliction_strength = bullet_affliction_strength;
+tower.bullet_affliction_strength_increased_by = bullet_affliction_strength_increased_by;
+tower.bullet_affliction_stacks = bullet_affliction_stacks;
+tower.bullet_affliction_time = bullet_affliction_time;
+tower.bullet_affliction_time_increased_by = bullet_affliction_time_increased_by;
+
+
 global.holding_tower = false;
 }
 

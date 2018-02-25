@@ -44,5 +44,13 @@ base_bullet_aoe_range = undefined;
 bullet_aoe_is_multiplied = undefined;
 bullet_aoe_increased_by = undefined;
 
+//Afflictions
+bullet_affliction = undefined;
+bullet_affliction_strength = undefined;
+bullet_affliction_strength_increased_by = undefined;
+bullet_affliction_stacks = undefined;
+bullet_affliction_time = undefined;
+bullet_affliction_time_increased_by = undefined;
+
 
 

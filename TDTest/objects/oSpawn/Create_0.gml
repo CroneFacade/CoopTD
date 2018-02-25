@@ -8,7 +8,7 @@ get = undefined;
 
 
 global.game_debug_mode = false;
-global.hp = 1;
+global.hp = 3;
 global.spd = 1;
 global.level = 1;
 global.coins = 100;
@@ -35,7 +35,7 @@ enemy_base_spawn_amount[0] = 0.5;
 enemy_base_coins[0] = 15;
 //Haunted Scroll
 enemy_sprites[1] = sHaunted_Scroll;
-enemy_base_healths[1] = 60;
+enemy_base_healths[1] = 120;
 enemy_base_speeds[1] = 1.5;
 enemy_base_spawn_rate[1] = 1.5;
 enemy_base_spawn_amount[1] = 3;
@@ -56,7 +56,7 @@ enemy_base_spawn_amount[3] = 0.1;
 enemy_base_coins[3] = 200;
 //Plant man
 enemy_sprites[4] = sPlant_Man;
-enemy_base_healths[4] = 100;
+enemy_base_healths[4] = 200;
 enemy_base_speeds[4] = 1;
 enemy_base_spawn_rate[4] = 4;
 enemy_base_spawn_amount[4] = 1;
@@ -70,7 +70,7 @@ enemy_base_spawn_amount[5] = 1.5;
 enemy_base_coins[5] = 20;
 //Giant Housefly
 enemy_sprites[6] = sGiant_Housefly;
-enemy_base_healths[6] = 20;
+enemy_base_healths[6] = 40;
 enemy_base_speeds[6] = 3;
 enemy_base_spawn_rate[6] = 1.2;
 enemy_base_spawn_amount[6] = 5;
@@ -88,14 +88,14 @@ enemy_base_healths[8] = 800;
 enemy_base_speeds[8] = 0.5;
 enemy_base_spawn_rate[8] = 2.0;
 enemy_base_spawn_amount[8] = 1.5;
-enemy_base_coins[8] = 24;
+enemy_base_coins[8] = 14;
 //Axe Skeleton
 enemy_sprites[9] = sAxe_Skeleton;
 enemy_base_healths[9] = 1000;
 enemy_base_speeds[9] = 0.5;
 enemy_base_spawn_rate[9] = 2.0;
 enemy_base_spawn_amount[9] = 0.8;
-enemy_base_coins[9] = 35;
+enemy_base_coins[9] = 25;
 //Golden Knight
 enemy_sprites[10] = sGolden_Knight;
 enemy_base_healths[10] = 2200;
