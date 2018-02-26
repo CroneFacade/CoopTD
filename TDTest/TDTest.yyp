@@ -559,6 +559,14 @@
             }
         },
         {
+            "Key": "7e259855-807f-4003-9856-aabe916c7986",
+            "Value": {
+                "id": "115bfe8d-0262-455a-aace-ed9851f4d61e",
+                "resourcePath": "sprites\\sRock_1\\sRock_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "837040ac-5769-4c67-aea9-257c7f700b1f",
             "Value": {
                 "id": "36484710-2865-4b4e-b96c-50fd7d14b803",
@@ -995,6 +1003,14 @@
             "Value": {
                 "id": "e5abdc34-43d2-47c2-9e75-dc759aa8b886",
                 "resourcePath": "objects\\oShard_TowerC\\oShard_TowerC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e83c43da-14fa-4fd4-98f8-1221d87667e6",
+            "Value": {
+                "id": "11419a9e-f3b4-4bd1-a0bd-6a132ccecb5c",
+                "resourcePath": "objects\\oRock_1\\oRock_1.yy",
                 "resourceType": "GMObject"
             }
         },
