@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "631543fd-5807-421c-9203-5097c35e3bcd",
+            "Value": {
+                "id": "f1491500-6dc5-4fe9-8ebf-f1ac6efe169b",
+                "resourcePath": "objects\\oRoad_Pebbles\\oRoad_Pebbles.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6652a940-a212-4099-9ab5-369d0ac2b147",
             "Value": {
                 "id": "7da2b5c1-bef7-4a7f-8782-c99dbc5bd994",
@@ -419,6 +427,14 @@
             "Value": {
                 "id": "356fbbca-102d-46a6-ad06-96019a83c9f3",
                 "resourcePath": "sprites\\sShuriken_Tower_Stage3\\sShuriken_Tower_Stage3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6a6b44fa-8252-42f7-bdab-2f9f6a3b932b",
+            "Value": {
+                "id": "4c8de7ed-2858-4ece-9224-5560f7c15886",
+                "resourcePath": "sprites\\Road_Pebbles_2\\Road_Pebbles_2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -839,6 +855,14 @@
             }
         },
         {
+            "Key": "bc608e60-a171-4eaa-a58c-76d51134f7b2",
+            "Value": {
+                "id": "88cfdd0d-26ce-4d00-95a2-06fc45a95079",
+                "resourcePath": "objects\\oRoad_Pebbles_2\\oRoad_Pebbles_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bc9bb4d2-6723-49ed-9401-bfbffa6ccb71",
             "Value": {
                 "id": "6c5e6294-58af-4afb-8958-664036a55631",
@@ -972,6 +996,14 @@
                 "id": "24a9cf37-8ea2-4cf6-92b9-81c39074c2e6",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e5175ae1-16d8-4d3b-8132-27178b6d8405",
+            "Value": {
+                "id": "063072a5-04fd-48e4-a2f2-239e706dc1ae",
+                "resourcePath": "sprites\\sRoad_Pebbles\\sRoad_Pebbles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
