@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "631543fd-5807-421c-9203-5097c35e3bcd",
+            "Value": {
+                "id": "f1491500-6dc5-4fe9-8ebf-f1ac6efe169b",
+                "resourcePath": "objects\\oRoad_Pebbles\\oRoad_Pebbles.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6652a940-a212-4099-9ab5-369d0ac2b147",
             "Value": {
                 "id": "7da2b5c1-bef7-4a7f-8782-c99dbc5bd994",
@@ -419,6 +427,14 @@
             "Value": {
                 "id": "356fbbca-102d-46a6-ad06-96019a83c9f3",
                 "resourcePath": "sprites\\sShuriken_Tower_Stage3\\sShuriken_Tower_Stage3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6a6b44fa-8252-42f7-bdab-2f9f6a3b932b",
+            "Value": {
+                "id": "4c8de7ed-2858-4ece-9224-5560f7c15886",
+                "resourcePath": "sprites\\Road_Pebbles_2\\Road_Pebbles_2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -556,6 +572,14 @@
                 "id": "fd577e8e-8044-45bd-97c5-074dd621bb3f",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "7e259855-807f-4003-9856-aabe916c7986",
+            "Value": {
+                "id": "115bfe8d-0262-455a-aace-ed9851f4d61e",
+                "resourcePath": "sprites\\sRock_1\\sRock_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -831,6 +855,14 @@
             }
         },
         {
+            "Key": "bc608e60-a171-4eaa-a58c-76d51134f7b2",
+            "Value": {
+                "id": "88cfdd0d-26ce-4d00-95a2-06fc45a95079",
+                "resourcePath": "objects\\oRoad_Pebbles_2\\oRoad_Pebbles_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bc9bb4d2-6723-49ed-9401-bfbffa6ccb71",
             "Value": {
                 "id": "6c5e6294-58af-4afb-8958-664036a55631",
@@ -967,6 +999,14 @@
             }
         },
         {
+            "Key": "e5175ae1-16d8-4d3b-8132-27178b6d8405",
+            "Value": {
+                "id": "063072a5-04fd-48e4-a2f2-239e706dc1ae",
+                "resourcePath": "sprites\\sRoad_Pebbles\\sRoad_Pebbles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e591c93b-2191-4f37-a279-ef46c7e40ee6",
             "Value": {
                 "id": "7fad7c59-e7e1-4358-8ad5-60bb5efa0529",
@@ -995,6 +1035,14 @@
             "Value": {
                 "id": "e5abdc34-43d2-47c2-9e75-dc759aa8b886",
                 "resourcePath": "objects\\oShard_TowerC\\oShard_TowerC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e83c43da-14fa-4fd4-98f8-1221d87667e6",
+            "Value": {
+                "id": "11419a9e-f3b4-4bd1-a0bd-6a132ccecb5c",
+                "resourcePath": "objects\\oRock_1\\oRock_1.yy",
                 "resourceType": "GMObject"
             }
         },
