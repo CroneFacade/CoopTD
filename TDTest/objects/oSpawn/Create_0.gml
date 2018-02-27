@@ -35,7 +35,7 @@ enemy_base_spawn_amount[0] = 0.5;
 enemy_base_coins[0] = 15;
 //Haunted Scroll
 enemy_sprites[1] = sHaunted_Scroll;
-enemy_base_healths[1] = 120;
+enemy_base_healths[1] = 180;
 enemy_base_speeds[1] = 1.5;
 enemy_base_spawn_rate[1] = 1.5;
 enemy_base_spawn_amount[1] = 3;
@@ -70,7 +70,7 @@ enemy_base_spawn_amount[5] = 1.5;
 enemy_base_coins[5] = 20;
 //Giant Housefly
 enemy_sprites[6] = sGiant_Housefly;
-enemy_base_healths[6] = 40;
+enemy_base_healths[6] = 120;
 enemy_base_speeds[6] = 3;
 enemy_base_spawn_rate[6] = 1.2;
 enemy_base_spawn_amount[6] = 5;

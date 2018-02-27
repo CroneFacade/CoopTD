@@ -10,7 +10,7 @@ if(spawn_count < spawn_amount * enemy_base_spawn_amount[enemy_index] && !restart
 	enemy.coins = enemy_base_coins[enemy_index];
 	
 	if(global.level > 15) {
-		enemy.coins = enemy.coins - (global.level - 10);
+		enemy.coins = enemy.coins - round((global.level - 10) / 3);
 		if(enemy.coins < 1)
 		enemy.coins = 1;
 	}
