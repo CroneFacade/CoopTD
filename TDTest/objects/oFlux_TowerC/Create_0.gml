@@ -1,4 +1,7 @@
 //Tower properties
+tower_tool_tip = @"Flux Tower - 150 coins
+Damage: 5, Speed: 20, Range: 75, Multi-target
+Upgrades increases damage";
 tower_sprites = [sFlux_Tower_Stage1, sFlux_Tower_Stage2, sFlux_Tower_Stage3_Animations_Strip];
 tower_max_level = 3;
 tower_cost = 150;

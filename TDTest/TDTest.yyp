@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "1acb3dd0-4d92-41e9-ae36-dedd9f7ed80e",
+            "Value": {
+                "id": "94e2f870-cab4-433b-8284-9d75c08f49e4",
+                "resourcePath": "objects\\oD_Set_Room_Speed_Times2\\oD_Set_Room_Speed_Times2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b4e72c9-4a80-42cf-aac8-13514e1d65db",
             "Value": {
                 "id": "5759cdc5-0654-4a3c-9e6d-c92cf01ed1e3",
@@ -887,6 +895,14 @@
             }
         },
         {
+            "Key": "cd40c408-eef0-4748-8dbf-026494c14548",
+            "Value": {
+                "id": "b697b7d8-8134-48bf-af4c-9cd34134ed4b",
+                "resourcePath": "objects\\oD_Reset_Room_Speed\\oD_Reset_Room_Speed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ce49b449-8a49-4702-9456-2eb69d8dc13d",
             "Value": {
                 "id": "f67da83c-6693-44ad-abf3-d64e3266b988",
@@ -1116,6 +1132,14 @@
                 "id": "0ca0c099-86f4-4319-a9a4-8d5d3224ad5d",
                 "resourcePath": "views\\f4fc0270-14c0-46b0-a1bb-e1355f350835.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f67b6ca7-90bc-438f-ab2e-284cabb8e86d",
+            "Value": {
+                "id": "412b4a1c-fc98-4328-9b0e-60ff27e3df59",
+                "resourcePath": "objects\\oUI_Main_Tooltip\\oUI_Main_Tooltip.yy",
+                "resourceType": "GMObject"
             }
         },
         {

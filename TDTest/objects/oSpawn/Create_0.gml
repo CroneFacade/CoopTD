@@ -6,7 +6,8 @@ spawn_rate = 0.2 * room_speed;
 end_round_logic = false;
 get = undefined;
 
-
+global.tool_tip_showing_for = noone;
+global.base_room_speed = room_speed;
 global.game_debug_mode = false;
 global.hp = 3;
 global.spd = 1;
@@ -16,15 +17,14 @@ global.playerHealth = 100;
 global.holding_tower = false;
 global.used_debug = false
 
-//Upgrades
-global.upgrades_shuriken_tower_level_max = 3;
 
 restart = false;
 running = false;
 
 
-//Enemies (this is temporary (probably))
+//Enemies
 enemy_index = 0;
+previous_enemies = [];
 
 //Slime
 enemy_sprites[0] = sEnemy;
@@ -35,7 +35,7 @@ enemy_base_spawn_amount[0] = 0.5;
 enemy_base_coins[0] = 15;
 //Haunted Scroll
 enemy_sprites[1] = sHaunted_Scroll;
-enemy_base_healths[1] = 180;
+enemy_base_healths[1] = 140;
 enemy_base_speeds[1] = 1.5;
 enemy_base_spawn_rate[1] = 1.5;
 enemy_base_spawn_amount[1] = 3;
@@ -70,8 +70,8 @@ enemy_base_spawn_amount[5] = 1.5;
 enemy_base_coins[5] = 20;
 //Giant Housefly
 enemy_sprites[6] = sGiant_Housefly;
-enemy_base_healths[6] = 120;
-enemy_base_speeds[6] = 3;
+enemy_base_healths[6] = 60;
+enemy_base_speeds[6] = 2.2;
 enemy_base_spawn_rate[6] = 1.2;
 enemy_base_spawn_amount[6] = 5;
 enemy_base_coins[6] = 2;

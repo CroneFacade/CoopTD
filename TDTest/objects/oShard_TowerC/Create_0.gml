@@ -1,4 +1,7 @@
 //Tower properties
+tower_tool_tip = @"Shard Tower - 200 coins
+Damage: 200, Speed: 1, Range: 130, Slow
+Upgrades increase the damage and slow";
 tower_sprites = [sShard_Tower_Stage1, sShard_Tower_Stage2, sShard_Tower_64x64_Stage3_Animation];
 tower_max_level = 3;
 tower_cost = 200;
