@@ -44,7 +44,7 @@ if(instance_number(oEnemy) <= 0 && !restart){
 		global.hp = global.hp * 1.05;
 	}
 	
-	global.spd = global.spd * 1.03;
+	global.spd = global.spd * 1.015;
 	
 	alarm[0] = 1;
 }

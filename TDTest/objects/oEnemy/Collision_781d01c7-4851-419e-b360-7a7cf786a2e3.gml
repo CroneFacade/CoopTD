@@ -64,6 +64,7 @@ if(projectile_affliction != undefined && projectile_affliction != "") {
 		afflictions[index] = projectile_affliction;
 		affliction_strengths[index] = projectile_affliction_strength;
 		affliction_stackss[index] = projectile_affliction_stacks;
+		affliction_base_time[index] = projectile_affliction_time;
 		affliction_end_times[index] = date_inc_second(date_current_datetime(), projectile_affliction_time);
 		
 	}

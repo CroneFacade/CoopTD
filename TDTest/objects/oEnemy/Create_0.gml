@@ -13,3 +13,4 @@ afflictions = [];
 affliction_strengths = [];
 affliction_stackss = [];
 affliction_end_times = [];
+affliction_base_time = [];
