@@ -1055,6 +1055,14 @@
             }
         },
         {
+            "Key": "e77e5cdd-2571-446b-94d6-1d7efba691a1",
+            "Value": {
+                "id": "bcca4057-f00b-4eb8-9c59-8cf0e6e0d261",
+                "resourcePath": "sprites\\sTiny_Imp\\sTiny_Imp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e805f9a7-31b6-4fec-91d6-44465d91e217",
             "Value": {
                 "id": "e5abdc34-43d2-47c2-9e75-dc759aa8b886",
