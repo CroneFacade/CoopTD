@@ -12,7 +12,7 @@ if (global.playerHealth <= 0)
 		room_speed = global.base_room_speed;
 		if(!global.used_debug)
 		http_get("http://api.stabwoundstudios.com/api/Leaderboard/New?name="+global.player_name+"&level="+string(global.level-1)+"&pleb=da8w76daw87d6aw8c7aw876daw876xc");
-		alarm[2] = room_speed * 3;
+		alarm[2] = room_speed * 6;
 		 var obj = instance_find(oUI_Highscore,0);
 		 obj.depth = -1111;
 		 obj.visible = true;

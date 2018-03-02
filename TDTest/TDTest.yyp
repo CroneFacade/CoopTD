@@ -807,6 +807,14 @@
             }
         },
         {
+            "Key": "b644f5a5-34e3-4460-a5dc-dd4006146da6",
+            "Value": {
+                "id": "da2f5997-69f4-47f8-b92b-b3dcd8108d94",
+                "resourcePath": "objects\\oUI_Speed_Button\\oUI_Speed_Button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b6de840c-1a53-49fa-baf9-43ebbc23f63a",
             "Value": {
                 "id": "962c1dfd-a286-4390-9148-3bfa424cbe19",
