@@ -6,7 +6,9 @@
     "children": [
         "ce49b449-8a49-4702-9456-2eb69d8dc13d",
         "6ca6d5ac-6f0e-437c-8080-48124fd665e2",
-        "998a33ba-6876-4132-919e-541af29004ec"
+        "998a33ba-6876-4132-919e-541af29004ec",
+        "036e991d-b1d0-4623-9c19-170159534443",
+        "f591f077-5a38-4cba-a0d9-ee00b90e4ec6"
     ],
     "filterType": "GMSprite",
     "folderName": "User_Interface",

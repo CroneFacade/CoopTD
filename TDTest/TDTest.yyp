@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "036e991d-b1d0-4623-9c19-170159534443",
+            "Value": {
+                "id": "8c89b86f-b52a-440d-be5b-1c57ba6d63bc",
+                "resourcePath": "sprites\\sSpeed_Button_1X\\sSpeed_Button_1X.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "03734298-6c45-474f-ba43-0487a0c18c19",
             "Value": {
                 "id": "984f3a2a-7c3e-46ac-a5d3-aca1a3011617",
@@ -1132,6 +1140,14 @@
                 "id": "0ca0c099-86f4-4319-a9a4-8d5d3224ad5d",
                 "resourcePath": "views\\f4fc0270-14c0-46b0-a1bb-e1355f350835.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f591f077-5a38-4cba-a0d9-ee00b90e4ec6",
+            "Value": {
+                "id": "9e79fa40-1e21-4875-ae71-3217218a92a9",
+                "resourcePath": "sprites\\sSpeed_Button_2X\\sSpeed_Button_2X.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
