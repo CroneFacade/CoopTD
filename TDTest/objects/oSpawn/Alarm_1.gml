@@ -46,8 +46,8 @@ if(instance_number(oEnemy) <= 0 && !restart){
 	
 	global.spd = global.spd * 1.015;
 	
-	alarm[0] = 1;
+	alarm[0] = room_speed * 5;
+	alarm[1] = room_speed * 15;
 }
-
-if(!restart)
-alarm[1] = room_speed * 10;
+else if(!restart)
+alarm[1] = room_speed * 1;
