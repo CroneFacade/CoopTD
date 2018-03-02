@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "455ddb5d-70d3-40bf-a80b-f5f111425c26",
+            "Value": {
+                "id": "5bc3098b-35ae-485b-8918-54c7fcdf9fa4",
+                "resourcePath": "sprites\\sUI_Slider_1x\\sUI_Slider_1x.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "45934a56-7b2a-4469-a1fe-574ea0538d0f",
             "Value": {
                 "id": "4f7dfbb5-1ffc-4346-b395-1827303fe3ed",
@@ -435,6 +443,14 @@
             "Value": {
                 "id": "5619ed99-6baf-4672-b23d-28fbedeff6fb",
                 "resourcePath": "sprites\\sShard_Tower_64x64_Stage3_Animation\\sShard_Tower_64x64_Stage3_Animation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "671be171-493e-4878-8594-e2479f3b6adb",
+            "Value": {
+                "id": "385f214b-8fb0-4eb3-8d3a-6656fe9be32b",
+                "resourcePath": "sprites\\sUI_Slider_2x\\sUI_Slider_2x.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -1,7 +1,7 @@
 //Tower properties
 tower_tool_tip = @"Cannon Tower - 100 coins
 Damage: 300, Speed: 0.25, Range: 300, AOE
-Upgrades increase the speed and damage";
+Upgrades: increase the speed and damage";
 tower_sprites = [sCannon_Tower_Stage1, sCannon_Tower_Stage2, sCannon_Tower_Stage3];
 tower_max_level = 3;
 tower_cost = 100;
