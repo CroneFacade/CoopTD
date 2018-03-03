@@ -110,3 +110,10 @@ enemy_base_speeds[11] = 0.7;
 enemy_base_spawn_rate[11] = 5;
 enemy_base_spawn_amount[11] = 0.5;
 enemy_base_coins[11] = 25;
+//Tiny imp
+enemy_sprites[12] = sTiny_Imp;
+enemy_base_healths[12] = 300;
+enemy_base_speeds[12] = 1;
+enemy_base_spawn_rate[12] = 4;
+enemy_base_spawn_amount[12] = 1;
+enemy_base_coins[12] = 5;

@@ -4,7 +4,7 @@ if(instance_number(oEnemy) <= 0 && !restart){
 	
 	var duplicate = true;
 	while(duplicate) {
-		enemy_index = random(array_length_1d(enemy_sprites));
+		enemy_index = round(random(array_length_1d(enemy_sprites) - 1));
 		
 		if(enemy_index == 3)
 		previous_enemies = [];

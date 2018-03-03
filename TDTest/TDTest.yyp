@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0fbda192-9d57-4644-b100-bc33ec128f9f",
+            "Value": {
+                "id": "017ae1f1-cb33-48bc-8395-438c089d2335",
+                "resourcePath": "objects\\oParticle\\oParticle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "13b51ee4-4d61-4f59-8449-3c821d80354f",
             "Value": {
                 "id": "1421061b-4e42-4cdf-84ea-db65781debc0",

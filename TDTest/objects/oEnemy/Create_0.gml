@@ -1,5 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+//Particle Emitter
+particle_emitter = part_emitter_create(global.part_sys);
+
+
+overlay = c_white;
 base_spd = undefined;
 debuff_time = 0;
 
