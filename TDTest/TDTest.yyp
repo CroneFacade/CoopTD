@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "13b51ee4-4d61-4f59-8449-3c821d80354f",
+            "Value": {
+                "id": "1421061b-4e42-4cdf-84ea-db65781debc0",
+                "resourcePath": "views\\13b51ee4-4d61-4f59-8449-3c821d80354f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "13dc3442-7b70-4974-a972-c60d19432d2a",
             "Value": {
                 "id": "6aec1499-6c4f-478d-92d6-5fc67ea4ab3a",
@@ -212,6 +220,14 @@
                 "id": "17a04846-d497-4f0a-bb0b-c2b750dd7c85",
                 "resourcePath": "scripts\\mouseOver\\mouseOver.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "29b7eaa3-eff6-4d70-adcf-401d4e16343c",
+            "Value": {
+                "id": "05d944db-46eb-4a18-bb67-693930fc53e5",
+                "resourcePath": "objects\\oSniper_TowerC\\oSniper_TowerC.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -591,6 +607,14 @@
             }
         },
         {
+            "Key": "7a5733aa-a973-4ac3-b392-3250f1be4609",
+            "Value": {
+                "id": "bf8ff843-26d0-404b-a2cd-9ff9721c1d99",
+                "resourcePath": "views\\7a5733aa-a973-4ac3-b392-3250f1be4609.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7bbec782-d9cd-4195-b772-0f376c0f43c3",
             "Value": {
                 "id": "7e53983f-ecbd-43ff-b05c-2c57e5a31629",
@@ -643,6 +667,14 @@
             "Value": {
                 "id": "045fa555-a40b-4d54-b487-37c3e4cd91c8",
                 "resourcePath": "sprites\\s_Shuriken_Tower_32x32Thumbnail\\s_Shuriken_Tower_32x32Thumbnail.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8cf9742c-32f0-4b62-b0af-f7ca3a076d48",
+            "Value": {
+                "id": "4eec3796-8503-4bfc-90f8-7c86c87dfaa7",
+                "resourcePath": "sprites\\sSniper_Tower_Thumbnail\\sSniper_Tower_Thumbnail.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -911,6 +943,14 @@
             }
         },
         {
+            "Key": "c154d878-531f-4a0e-ac71-ef19a0eb1d99",
+            "Value": {
+                "id": "184514d5-6e2b-4bf5-9aa1-e043320de488",
+                "resourcePath": "sprites\\sSniper_Tower_Projectile\\sSniper_Tower_Projectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c2fe01ee-30ec-4bbb-b784-bdc400b8b985",
             "Value": {
                 "id": "ff5c6ebd-1e6e-4e18-8480-43bf635c0e02",
@@ -1115,6 +1155,14 @@
             "Value": {
                 "id": "29c17f41-f8cd-4ced-8d42-812584fd5a02",
                 "resourcePath": "sprites\\sHauntedKnight\\sHauntedKnight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eec64640-dcd1-4989-8b3f-ae5a3c7ea013",
+            "Value": {
+                "id": "7e1e07b3-3bee-47ad-8743-6fa20cd64c74",
+                "resourcePath": "sprites\\sSniper_Tower_Stage1\\sSniper_Tower_Stage1.yy",
                 "resourceType": "GMSprite"
             }
         },

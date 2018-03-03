@@ -8,7 +8,8 @@
         "8d68e150-5f69-4231-bbdf-99859a07200f",
         "a06d636f-0606-47d1-900c-a7ddf54ff9ee",
         "0466ac9f-f7c8-4b94-8d38-ddbbbe8a7485",
-        "f4fc0270-14c0-46b0-a1bb-e1355f350835"
+        "f4fc0270-14c0-46b0-a1bb-e1355f350835",
+        "7a5733aa-a973-4ac3-b392-3250f1be4609"
     ],
     "filterType": "GMSprite",
     "folderName": "Projectiles",
