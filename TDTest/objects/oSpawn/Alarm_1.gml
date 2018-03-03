@@ -31,12 +31,16 @@ if(instance_number(oEnemy) <= 0 && !restart){
 	global.level++;
 	
 	
-	if(global.level < 15) {
-		global.hp += 0.5;
+	if(global.level < 10) {
+		global.hp += 1;
 		spawn_amount =  round(spawn_amount * 1.15);
 	}
+	else if(global.level < 15) {
+		global.hp = global.hp * 1.12;
+		spawn_amount =  round(spawn_amount * 1.05);
+	}
 	else if(global.level < 20) {
-		global.hp += 2.5;
+		global.hp = global.hp * 1.05;
 		spawn_amount =  round(spawn_amount * 1.05);
 	}
 	else {

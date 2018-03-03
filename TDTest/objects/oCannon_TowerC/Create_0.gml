@@ -1,6 +1,6 @@
 //Tower properties
 tower_tool_tip = @"Cannon Tower - 100 coins
-Damage: 600, Speed: 0.25, Range: 300, AOE
+Damage: 600, Speed: 0.14, Range: 300, AOE
 Upgrades: increase the speed and damage";
 tower_sprites = [sCannon_Tower_Stage1, sCannon_Tower_Stage2, sCannon_Tower_Stage3];
 tower_max_level = 3;
@@ -13,7 +13,7 @@ base_attack_range = 300;
 attack_range_increased_by = 0;
 
 //Attack speed
-base_attack_speed = room_speed * 4;
+base_attack_speed = room_speed * 7;
 attack_speed_increased_by = -(room_speed);
 
 //Bullet properties
