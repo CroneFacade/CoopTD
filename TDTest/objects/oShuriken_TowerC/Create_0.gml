@@ -1,6 +1,6 @@
 //Tower properties
 tower_tool_tip = @"Shuriken Tower - 50 coins
-Damage: "+string(base_bullet_damage)+@", Speed: 2, Range: 200, Piercing
+Damage: 20, Speed: 2, Range: 200, Piercing
 Upgrades: increase the amount projectiles";
 tower_sprites = [sShuriken_Tower_Stage1, sShuriken_Tower_Stage2, sShuriken_Tower_Stage3];
 tower_max_level = 3;
