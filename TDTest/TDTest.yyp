@@ -855,6 +855,14 @@
             }
         },
         {
+            "Key": "b43c03b5-226b-457f-a8c3-ce5e8263f00d",
+            "Value": {
+                "id": "547cf54d-225f-4bb9-b6c9-308b857d5748",
+                "resourcePath": "sprites\\sSniper_Tower_Stage2\\sSniper_Tower_Stage2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b644f5a5-34e3-4460-a5dc-dd4006146da6",
             "Value": {
                 "id": "da2f5997-69f4-47f8-b92b-b3dcd8108d94",

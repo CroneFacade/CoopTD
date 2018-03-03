@@ -2,7 +2,7 @@
 tower_tool_tip = @"Sniper Tower - 200 coins
 Damage: 1200, Speed: 0.2, Range: 400, 
 Upgrades: Increases damage by 1200 per level";
-tower_sprites = [sSniper_Tower_Stage1, sSniper_Tower_Stage1, sSniper_Tower_Stage1];
+tower_sprites = [sSniper_Tower_Stage1, sSniper_Tower_Stage2, sSniper_Tower_Stage2];
 tower_max_level = 3;
 tower_cost = 200;
 tower_upgrade_cost = 100;
