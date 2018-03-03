@@ -23,8 +23,8 @@ bullet_has_infinite_range = false;
 bullet_has_collision = false;
 
 //Damage
-base_bullet_damage = 300;
-bullet_damage_increased_by = 300;
+base_bullet_damage = 600;
+bullet_damage_increased_by = 450;
 
 //Speed
 base_bullet_speed = 3;
@@ -35,7 +35,7 @@ base_bullet_amount = 1;
 bullet_amount_increase = 0;
 
 //AOE
-base_bullet_aoe_range = 100;
+base_bullet_aoe_range = 75;
 bullet_aoe_increased_by = 25;
 
 //Afflictions
