@@ -983,6 +983,14 @@
             }
         },
         {
+            "Key": "d30d698a-6e73-4402-934c-708bf5bff43c",
+            "Value": {
+                "id": "70073c28-b97d-40e8-b89f-606f3de028dd",
+                "resourcePath": "views\\d30d698a-6e73-4402-934c-708bf5bff43c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d3476453-bb7c-4c1b-908c-9c4920d8b200",
             "Value": {
                 "id": "7e7b45ce-c178-4fbd-8ad5-65be8ff0a2fb",
@@ -1003,6 +1011,14 @@
             "Value": {
                 "id": "d4d031c5-b573-434e-af33-34c94de84d90",
                 "resourcePath": "sprites\\sShuriken_Tower_Stage2\\sShuriken_Tower_Stage2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d5cf204f-2741-425e-8b1a-2770347e1ebd",
+            "Value": {
+                "id": "dd73918b-fbb7-4525-885a-e15f8bf99f10",
+                "resourcePath": "sprites\\sSlow_Snowflake\\sSlow_Snowflake.yy",
                 "resourceType": "GMSprite"
             }
         },
