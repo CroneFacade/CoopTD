@@ -27,7 +27,7 @@ base_bullet_damage = 1200;
 bullet_damage_increased_by = 1200;
 
 //Speed
-base_bullet_speed = 10;
+base_bullet_speed = 25;
 bullet_speed_increased_by = 0;
 
 //Amount
