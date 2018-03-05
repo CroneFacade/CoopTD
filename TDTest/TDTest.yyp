@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "43e663ae-03cc-426f-9b16-f5c4d2cafcac",
+            "Value": {
+                "id": "22671b0f-0e59-4a86-b960-76136bb9598a",
+                "resourcePath": "objects\\Menu_Animation1\\Menu_Animation1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4474e308-19a6-4db3-8336-e8d8e7117096",
             "Value": {
                 "id": "d2c79f70-781e-4c8a-bee4-fb48a116b1d6",
@@ -447,6 +455,14 @@
             }
         },
         {
+            "Key": "5f6a9038-60ba-4f40-a4d2-48438c279a7c",
+            "Value": {
+                "id": "b3208437-4157-4037-aea5-3516c6b086c2",
+                "resourcePath": "views\\5f6a9038-60ba-4f40-a4d2-48438c279a7c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "631543fd-5807-421c-9203-5097c35e3bcd",
             "Value": {
                 "id": "f1491500-6dc5-4fe9-8ebf-f1ac6efe169b",
@@ -476,6 +492,14 @@
                 "id": "385f214b-8fb0-4eb3-8d3a-6656fe9be32b",
                 "resourcePath": "sprites\\sUI_Slider_2x\\sUI_Slider_2x.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "68a6c743-ed12-4bae-b238-7fd3e19291ef",
+            "Value": {
+                "id": "71bcfefe-f15e-4158-9048-e43688f32907",
+                "resourcePath": "views\\68a6c743-ed12-4bae-b238-7fd3e19291ef.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1075,6 +1099,14 @@
             "Value": {
                 "id": "2f186bf6-81ac-4b8e-842d-2abd9630efd5",
                 "resourcePath": "sprites\\sFarm_House\\sFarm_House.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "decb990d-a2ea-44a2-be06-3d111bf8c65c",
+            "Value": {
+                "id": "c69b0c5c-7aa3-40a6-a05e-b22959d294d3",
+                "resourcePath": "sprites\\Menu_Animations1\\Menu_Animations1.yy",
                 "resourceType": "GMSprite"
             }
         },
