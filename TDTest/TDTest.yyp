@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "06bb9e79-0fa9-4444-8ef5-c0537c8f3c94",
+            "Value": {
+                "id": "64a04ae1-a659-4309-9f0f-9f8b3c901437",
+                "resourcePath": "objects\\oWindow_Serverlist\\oWindow_Serverlist.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "06d573ad-1ce4-46f7-9821-c307762328e4",
             "Value": {
                 "id": "5182f43f-3bec-42b9-8380-75a4ed3e5119",
@@ -115,6 +123,14 @@
             "Value": {
                 "id": "017ae1f1-cb33-48bc-8395-438c089d2335",
                 "resourcePath": "objects\\oParticle\\oParticle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0fcf2cf3-5bbf-4175-a745-55e2c1d680fc",
+            "Value": {
+                "id": "b3398556-c190-45eb-986e-26dbc6b7e702",
+                "resourcePath": "objects\\oConnecting_Game_Lobby\\oConnecting_Game_Lobby.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "1d288dcc-0f0c-4626-b700-da9ac52a6d2c",
+            "Value": {
+                "id": "897367ed-e7b2-4207-924c-3846b469857b",
+                "resourcePath": "objects\\oGame_Lobby_Layout\\oGame_Lobby_Layout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d5527ac-7cef-434b-9ccc-88cf3c241dad",
             "Value": {
                 "id": "4f89079f-a1ed-48ed-a98d-6f1fa940bb43",
@@ -220,6 +244,14 @@
                 "id": "a50a0a1f-1d84-4563-9190-f5990a4fcddd",
                 "resourcePath": "views\\1fa7b08a-46a5-4661-a487-24d1018be9ce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "25ee2e3c-05c9-4d7d-9c98-94db0a13c785",
+            "Value": {
+                "id": "9bfdd06e-9c60-4f34-8ed2-6770ca4a0d4b",
+                "resourcePath": "rooms\\rLobby\\rLobby.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -455,6 +487,22 @@
             }
         },
         {
+            "Key": "57d61401-f0b7-475a-a948-b274b6825828",
+            "Value": {
+                "id": "95911ad6-2ff3-45b4-ab99-04d41a89a4ba",
+                "resourcePath": "objects\\oConnecting_Game\\oConnecting_Game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "58ff92dd-6921-46fd-9a1c-1b81129f568f",
+            "Value": {
+                "id": "5e49a32c-1aec-466c-ae4c-57771335d0f0",
+                "resourcePath": "views\\58ff92dd-6921-46fd-9a1c-1b81129f568f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "590dde20-039a-4dcf-8cf1-040b7f44a51d",
             "Value": {
                 "id": "8b5ebbc9-a780-434b-971e-fce853c1ce5b",
@@ -591,6 +639,14 @@
             }
         },
         {
+            "Key": "6cf615ac-cabf-4f22-965a-db14e23361a7",
+            "Value": {
+                "id": "443eebb9-b7de-46ce-806e-747cf9ddb329",
+                "resourcePath": "objects\\oConnecting_Multiplayer_Lobby\\oConnecting_Multiplayer_Lobby.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6d37a7ad-5208-45db-82b4-42087eab3a9e",
             "Value": {
                 "id": "ec6d1b71-ff87-4584-b7b6-43b253fb6b1f",
@@ -695,6 +751,14 @@
             }
         },
         {
+            "Key": "777edc5b-062f-4ac3-811f-9e9d6e265d60",
+            "Value": {
+                "id": "6404555d-7de0-4d39-848a-e6a5149bef2e",
+                "resourcePath": "objects\\oMultiplayer_Lobby_Layout\\oMultiplayer_Lobby_Layout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7850731a-dc13-4833-a323-c815992928c8",
             "Value": {
                 "id": "8b6edb8d-449d-4cc6-ac27-d6e13bddfc86",
@@ -716,6 +780,14 @@
                 "id": "bf8ff843-26d0-404b-a2cd-9ff9721c1d99",
                 "resourcePath": "views\\7a5733aa-a973-4ac3-b392-3250f1be4609.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7b19b56e-32cc-4f89-ad4e-2d0836f9cd39",
+            "Value": {
+                "id": "bb874a48-e3ba-476e-a022-959f91dcb2f5",
+                "resourcePath": "objects\\oWindow_MapSelection\\oWindow_MapSelection.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -804,6 +876,14 @@
                 "id": "c46294f4-1097-4345-9527-932766e8400a",
                 "resourcePath": "views\\8d68e150-5f69-4231-bbdf-99859a07200f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8f3c0e1b-abbb-4867-864f-27169f612053",
+            "Value": {
+                "id": "b7c6cb90-a5a0-4b90-ba69-d41bd1a4b754",
+                "resourcePath": "objects\\oMultiplayer_Button\\oMultiplayer_Button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -916,6 +996,22 @@
                 "id": "e88cb39f-2eee-4a91-b621-2152a8ed994b",
                 "resourcePath": "views\\a06d636f-0606-47d1-900c-a7ddf54ff9ee.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5591ce2-55ef-4edd-a0c1-b7eabf8c7298",
+            "Value": {
+                "id": "59cb70e2-6da1-4902-b01d-40e1152da50b",
+                "resourcePath": "objects\\oWindow_Chat\\oWindow_Chat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a5c7f323-97a5-4a95-9c21-acf33266f989",
+            "Value": {
+                "id": "a59459f0-7da3-4935-a2b1-edb0556ec700",
+                "resourcePath": "objects\\oWindow_PlayerCount\\oWindow_PlayerCount.yy",
+                "resourceType": "GMObject"
             }
         },
         {
