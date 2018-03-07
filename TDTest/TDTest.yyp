@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "43d8d6f5-b67e-4f75-8b52-312941ad1ffd",
+            "Value": {
+                "id": "c9a68db8-4444-4b9b-9c38-888e8a826eff",
+                "resourcePath": "views\\43d8d6f5-b67e-4f75-8b52-312941ad1ffd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "43e663ae-03cc-426f-9b16-f5c4d2cafcac",
             "Value": {
                 "id": "22671b0f-0e59-4a86-b960-76136bb9598a",
@@ -604,6 +612,14 @@
                 "id": "6c26f5ca-e1bf-4758-9a0d-6ee48eed8a42",
                 "resourcePath": "sprites\\sSkull_N_Bones1\\sSkull_N_Bones1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74a00367-9187-4176-9966-c5f6c8e4c982",
+            "Value": {
+                "id": "9584fbe6-4906-4dbb-84d1-9b65b46eea89",
+                "resourcePath": "objects\\oMenu_Background\\oMenu_Background.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -956,6 +972,14 @@
                 "id": "d5170f2c-b0e4-48e7-9317-4d6ca0dc9a5e",
                 "resourcePath": "objects\\oSpawn\\oSpawn.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bc49941e-1945-4938-a074-f3b34ade6948",
+            "Value": {
+                "id": "169c5469-6745-4d2d-b054-3de9521232c4",
+                "resourcePath": "sprites\\sMenu_Overlay\\sMenu_Overlay.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
