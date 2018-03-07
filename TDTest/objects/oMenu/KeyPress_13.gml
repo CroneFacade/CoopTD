@@ -5,12 +5,9 @@ switch(menu_index) {
 		room_goto(rSPGame);
 		break;
 	case 1:
-		show_debug_message(button[menu_index]);
+		room_goto(rLobby);
 		break;
 	case 2:
-		show_debug_message(button[menu_index]);
-		break;
-	case 3:
 		game_end();
 		break;
 	

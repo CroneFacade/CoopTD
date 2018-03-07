@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "oWindow_Chat",
     "eventList": [
-        
+        {
+            "id": "d3be50d3-a356-4641-823f-f98334ae4a1f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a5591ce2-55ef-4edd-a0c1-b7eabf8c7298"
+        },
+        {
+            "id": "40a9609c-16ff-4d7f-8b09-33e56a91b329",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a5591ce2-55ef-4edd-a0c1-b7eabf8c7298"
+        },
+        {
+            "id": "8c4aede0-ed29-460f-8581-45a696b4345f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "a5591ce2-55ef-4edd-a0c1-b7eabf8c7298"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
