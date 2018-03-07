@@ -1,15 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
-window_set_caption("Coop-TD by StabwoundStudios v0.2");
+window_set_caption("Coop-TD by StabwoundStudios v0.3");
 menu_x = x;
 menu_y = y;
 button_h = 48;
 
 // buttons
-button[0] = "Play";
-button[1] = "Host co-op";
-button[2] = "Join co-op";
-button[3] = "Exit";
+button[0] = "Singleplayer";
+button[1] = "Multiplayer";
+button[2] = "Exit";
 buttons = array_length_1d(button);
 
 menu_index = 0;
