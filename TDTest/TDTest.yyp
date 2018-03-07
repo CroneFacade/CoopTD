@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "4a974781-53d8-4f33-8008-df9d1b851a50",
+            "Value": {
+                "id": "133c3186-7293-4e9a-9f39-0b10123c9ad7",
+                "resourcePath": "objects\\oMultiplayer_Button_Exit\\oMultiplayer_Button_Exit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4d9e22f2-1212-4773-abb5-e0482a5762d9",
             "Value": {
                 "id": "6e052810-1530-44ab-8a0e-1d15ead3103c",
@@ -548,6 +556,14 @@
                 "id": "b3208437-4157-4037-aea5-3516c6b086c2",
                 "resourcePath": "views\\5f6a9038-60ba-4f40-a4d2-48438c279a7c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5ff802ce-6625-4a84-91e8-a66e821e8723",
+            "Value": {
+                "id": "a804a9c9-172d-466e-8c48-74081167f0ba",
+                "resourcePath": "objects\\oMultiplayer_Button_Join\\oMultiplayer_Button_Join.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -767,6 +783,14 @@
             }
         },
         {
+            "Key": "79a752a7-3708-469b-9c62-d862ba2b9a99",
+            "Value": {
+                "id": "a2ce3d12-e6b1-4ac0-a86d-0a255659a7e6",
+                "resourcePath": "sprites\\sMultiplayerLobby_Background\\sMultiplayerLobby_Background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "79df0d3a-6a83-4d99-bcd7-46dccf0bd5b9",
             "Value": {
                 "id": "31dac469-b1c8-4464-a5f3-09f83a6a4a04",
@@ -812,6 +836,14 @@
                 "id": "115bfe8d-0262-455a-aace-ed9851f4d61e",
                 "resourcePath": "sprites\\sRock_1\\sRock_1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "80ba2237-1f48-42d3-929a-fc70fb96c8ff",
+            "Value": {
+                "id": "4890407f-fa0f-4f2b-82d5-b0b07e90bd05",
+                "resourcePath": "fonts\\fLobby_Button\\fLobby_Button.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -882,7 +914,7 @@
             "Key": "8f3c0e1b-abbb-4867-864f-27169f612053",
             "Value": {
                 "id": "b7c6cb90-a5a0-4b90-ba69-d41bd1a4b754",
-                "resourcePath": "objects\\oMultiplayer_Button\\oMultiplayer_Button.yy",
+                "resourcePath": "objects\\oMultiplayer_Button_Host\\oMultiplayer_Button_Host.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -916,6 +948,14 @@
                 "id": "afd8b4ba-55bc-4984-af00-a3aa822eebd8",
                 "resourcePath": "tilesets\\tDodad_Sprites_32x32\\tDodad_Sprites_32x32.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "92c66eb7-dc92-4da7-afae-d93a969850db",
+            "Value": {
+                "id": "fe9915ea-9d9b-442c-b1e7-9faf1c126ace",
+                "resourcePath": "fonts\\fChat\\fChat.yy",
+                "resourceType": "GMFont"
             }
         },
         {

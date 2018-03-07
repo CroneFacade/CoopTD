@@ -13,7 +13,9 @@
         "a5591ce2-55ef-4edd-a0c1-b7eabf8c7298",
         "a5c7f323-97a5-4a95-9c21-acf33266f989",
         "06bb9e79-0fa9-4444-8ef5-c0537c8f3c94",
-        "7b19b56e-32cc-4f89-ad4e-2d0836f9cd39"
+        "7b19b56e-32cc-4f89-ad4e-2d0836f9cd39",
+        "5ff802ce-6625-4a84-91e8-a66e821e8723",
+        "4a974781-53d8-4f33-8008-df9d1b851a50"
     ],
     "filterType": "GMObject",
     "folderName": "Network_Objects",
