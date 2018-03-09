@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "30b850cb-6e42-4834-be21-10af537e6b6a",
+            "Value": {
+                "id": "3dfa232d-26b9-4b9d-82df-860af7a7d2ce",
+                "resourcePath": "sprites\\sMultiplayer_Lobby_Chat_Top_overlay\\sMultiplayer_Lobby_Chat_Top_overlay.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "333bac29-c62f-4b62-bf51-3fce77792a42",
             "Value": {
                 "id": "e53667df-6549-4749-94b6-d1fc263d71dd",
@@ -1255,6 +1263,14 @@
             }
         },
         {
+            "Key": "bd5f12f8-71d3-4c4c-ba06-a392525b3834",
+            "Value": {
+                "id": "8bf8ad8a-12e2-4d92-af36-f1ed0ed9c835",
+                "resourcePath": "objects\\oMultiplayer_Chat_Overlay\\oMultiplayer_Chat_Overlay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c1026613-9444-4c39-bcdd-3d224c7f00c1",
             "Value": {
                 "id": "a5bc3ba7-d8ba-4eba-b397-b538e289e0a7",
@@ -1556,6 +1572,14 @@
                 "id": "3379c921-763d-4e52-bc12-837c86f510e9",
                 "resourcePath": "sprites\\sDodad_Sprites_32x32\\sDodad_Sprites_32x32.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ea05c4ce-dd37-492e-865b-13e9ae427062",
+            "Value": {
+                "id": "3880289c-8961-459a-abe0-2a6314b8d565",
+                "resourcePath": "views\\ea05c4ce-dd37-492e-865b-13e9ae427062.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

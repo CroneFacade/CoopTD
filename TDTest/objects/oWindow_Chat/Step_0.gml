@@ -1,5 +1,5 @@
 /// @description Handle Key inputs
-if(keyboard_check(vk_anykey) && string_length(text) < 35){
+if(keyboard_check(vk_anykey) && string_length(text) < 200){
 	text = text+string(keyboard_string);
 	keyboard_string = "";
 
